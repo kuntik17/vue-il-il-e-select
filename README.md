@@ -1,24 +1,7 @@
 # city_select
 
-## Project setup
-```
-npm install
-```
+Vue.js ile Türkiye'deki iller ve ilçeler select formu.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+İl seçildiğinde o ile ait ilçeler otomatik gelir.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+İl ve ilin plaka kodu, ilçe ve ilçenin kodu ayrı ayrı seçilebilir.
