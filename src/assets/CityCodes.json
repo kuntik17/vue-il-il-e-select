@@ -1,0 +1,5974 @@
+{
+    "CitySelect": [
+        {
+            "CityCode": "1",
+            "City": "ADANA",
+            "StateCode": "43",
+            "State": "ALADAĞ"
+        },
+        {
+            "CityCode": "1",
+            "City": "ADANA",
+            "StateCode": "196",
+            "State": "CEYHAN"
+        },
+        {
+            "CityCode": "1",
+            "City": "ADANA",
+            "StateCode": "263",
+            "State": "ÇUKUROVA"
+        },
+        {
+            "CityCode": "1",
+            "City": "ADANA",
+            "StateCode": "368",
+            "State": "FEKE"
+        },
+        {
+            "CityCode": "1",
+            "City": "ADANA",
+            "StateCode": "488",
+            "State": "İMAMOĞLU"
+        },
+        {
+            "CityCode": "1",
+            "City": "ADANA",
+            "StateCode": "531",
+            "State": "KARAİSALI"
+        },
+        {
+            "CityCode": "1",
+            "City": "ADANA",
+            "StateCode": "542",
+            "State": "KARATAŞ"
+        },
+        {
+            "CityCode": "1",
+            "City": "ADANA",
+            "StateCode": "608",
+            "State": "KOZAN"
+        },
+        {
+            "CityCode": "1",
+            "City": "ADANA",
+            "StateCode": "746",
+            "State": "POZANTI"
+        },
+        {
+            "CityCode": "1",
+            "City": "ADANA",
+            "StateCode": "755",
+            "State": "SAİMBEYLİ"
+        },
+        {
+            "CityCode": "1",
+            "City": "ADANA",
+            "StateCode": "770",
+            "State": "SARIÇAM"
+        },
+        {
+            "CityCode": "1",
+            "City": "ADANA",
+            "StateCode": "796",
+            "State": "SEYHAN"
+        },
+        {
+            "CityCode": "1",
+            "City": "ADANA",
+            "StateCode": "889",
+            "State": "TUFANBEYLİ"
+        },
+        {
+            "CityCode": "1",
+            "City": "ADANA",
+            "StateCode": "961",
+            "State": "YUMURTALIK"
+        },
+        {
+            "CityCode": "1",
+            "City": "ADANA",
+            "StateCode": "966",
+            "State": "YÜREĞİR"
+        },
+        {
+            "CityCode": "1",
+            "City": "ADANA",
+            "StateCode": "982",
+            "State": "ADANA"
+        },
+        {
+            "CityCode": "2",
+            "City": "ADIYAMAN",
+            "StateCode": "7",
+            "State": "ADIYAMAN"
+        },
+        {
+            "CityCode": "2",
+            "City": "ADIYAMAN",
+            "StateCode": "146",
+            "State": "BESNİ"
+        },
+        {
+            "CityCode": "2",
+            "City": "ADIYAMAN",
+            "StateCode": "239",
+            "State": "ÇELİKHAN"
+        },
+        {
+            "CityCode": "2",
+            "City": "ADIYAMAN",
+            "StateCode": "387",
+            "State": "GERGER"
+        },
+        {
+            "CityCode": "2",
+            "City": "ADIYAMAN",
+            "StateCode": "396",
+            "State": "GÖLBAŞI"
+        },
+        {
+            "CityCode": "2",
+            "City": "ADIYAMAN",
+            "StateCode": "515",
+            "State": "KAHTA"
+        },
+        {
+            "CityCode": "2",
+            "City": "ADIYAMAN",
+            "StateCode": "759",
+            "State": "SAMSAT"
+        },
+        {
+            "CityCode": "2",
+            "City": "ADIYAMAN",
+            "StateCode": "807",
+            "State": "SİNCİK"
+        },
+        {
+            "CityCode": "2",
+            "City": "ADIYAMAN",
+            "StateCode": "894",
+            "State": "TUT"
+        },
+        {
+            "CityCode": "3",
+            "City": "AFYONKARAHİSAR",
+            "StateCode": "10",
+            "State": "AFYONKARAHİSAR"
+        },
+        {
+            "CityCode": "3",
+            "City": "AFYONKARAHİSAR",
+            "StateCode": "130",
+            "State": "BAŞMAKÇI"
+        },
+        {
+            "CityCode": "3",
+            "City": "AFYONKARAHİSAR",
+            "StateCode": "134",
+            "State": "BAYAT"
+        },
+        {
+            "CityCode": "3",
+            "City": "AFYONKARAHİSAR",
+            "StateCode": "170",
+            "State": "BOLVADİN"
+        },
+        {
+            "CityCode": "3",
+            "City": "AFYONKARAHİSAR",
+            "StateCode": "228",
+            "State": "ÇAY"
+        },
+        {
+            "CityCode": "3",
+            "City": "AFYONKARAHİSAR",
+            "StateCode": "258",
+            "State": "ÇOBANLAR"
+        },
+        {
+            "CityCode": "3",
+            "City": "AFYONKARAHİSAR",
+            "StateCode": "273",
+            "State": "DAZKIRI"
+        },
+        {
+            "CityCode": "3",
+            "City": "AFYONKARAHİSAR",
+            "StateCode": "297",
+            "State": "DİNAR"
+        },
+        {
+            "CityCode": "3",
+            "City": "AFYONKARAHİSAR",
+            "StateCode": "336",
+            "State": "EMİRDAĞ"
+        },
+        {
+            "CityCode": "3",
+            "City": "AFYONKARAHİSAR",
+            "StateCode": "360",
+            "State": "EVCİLER"
+        },
+        {
+            "CityCode": "3",
+            "City": "AFYONKARAHİSAR",
+            "StateCode": "470",
+            "State": "HOCALAR"
+        },
+        {
+            "CityCode": "3",
+            "City": "AFYONKARAHİSAR",
+            "StateCode": "483",
+            "State": "İHSANİYE"
+        },
+        {
+            "CityCode": "3",
+            "City": "AFYONKARAHİSAR",
+            "StateCode": "498",
+            "State": "İSCEHİSAR"
+        },
+        {
+            "CityCode": "3",
+            "City": "AFYONKARAHİSAR",
+            "StateCode": "588",
+            "State": "KIZILÖREN"
+        },
+        {
+            "CityCode": "3",
+            "City": "AFYONKARAHİSAR",
+            "StateCode": "761",
+            "State": "SANDIKLI"
+        },
+        {
+            "CityCode": "3",
+            "City": "AFYONKARAHİSAR",
+            "StateCode": "805",
+            "State": "SİNANPAŞA"
+        },
+        {
+            "CityCode": "3",
+            "City": "AFYONKARAHİSAR",
+            "StateCode": "822",
+            "State": "SULTANDAĞI"
+        },
+        {
+            "CityCode": "3",
+            "City": "AFYONKARAHİSAR",
+            "StateCode": "859",
+            "State": "ŞUHUT"
+        },
+        {
+            "CityCode": "4",
+            "City": "AĞRI",
+            "StateCode": "15",
+            "State": "AĞRI"
+        },
+        {
+            "CityCode": "4",
+            "City": "AĞRI",
+            "StateCode": "299",
+            "State": "DİYADİN"
+        },
+        {
+            "CityCode": "4",
+            "City": "AĞRI",
+            "StateCode": "307",
+            "State": "DOĞUBAYAZIT"
+        },
+        {
+            "CityCode": "4",
+            "City": "AĞRI",
+            "StateCode": "332",
+            "State": "ELEŞKİRT"
+        },
+        {
+            "CityCode": "4",
+            "City": "AĞRI",
+            "StateCode": "445",
+            "State": "HAMUR"
+        },
+        {
+            "CityCode": "4",
+            "City": "AĞRI",
+            "StateCode": "726",
+            "State": "PATNOS"
+        },
+        {
+            "CityCode": "4",
+            "City": "AĞRI",
+            "StateCode": "865",
+            "State": "TAŞLIÇAY"
+        },
+        {
+            "CityCode": "4",
+            "City": "AĞRI",
+            "StateCode": "895",
+            "State": "TUTAK"
+        },
+        {
+            "CityCode": "5",
+            "City": "AMASYA",
+            "StateCode": "62",
+            "State": "AMASYA"
+        },
+        {
+            "CityCode": "5",
+            "City": "AMASYA",
+            "StateCode": "411",
+            "State": "GÖYNÜCEK"
+        },
+        {
+            "CityCode": "5",
+            "City": "AMASYA",
+            "StateCode": "420",
+            "State": "GÜMÜŞHACIKÖY"
+        },
+        {
+            "CityCode": "5",
+            "City": "AMASYA",
+            "StateCode": "444",
+            "State": "HAMAMÖZÜ"
+        },
+        {
+            "CityCode": "5",
+            "City": "AMASYA",
+            "StateCode": "663",
+            "State": "MERZİFON"
+        },
+        {
+            "CityCode": "5",
+            "City": "AMASYA",
+            "StateCode": "825",
+            "State": "SULUOVA"
+        },
+        {
+            "CityCode": "5",
+            "City": "AMASYA",
+            "StateCode": "866",
+            "State": "TAŞOVA"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "39",
+            "State": "AKYURT"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "51",
+            "State": "ALTINDAĞ"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "96",
+            "State": "AYAŞ"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "118",
+            "State": "BALA"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "156",
+            "State": "BEYPAZARI"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "208",
+            "State": "ÇAMLIDERE"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "216",
+            "State": "ÇANKAYA"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "261",
+            "State": "ÇUBUK"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "333",
+            "State": "ELMADAĞ"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "359",
+            "State": "ETİMESGUT"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "361",
+            "State": "EVREN"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "397",
+            "State": "GÖLBAŞI"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "415",
+            "State": "GÜDÜL"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "459",
+            "State": "HAYMANA"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "518",
+            "State": "KALECİK"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "561",
+            "State": "KAZAN"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "565",
+            "State": "KEÇİÖREN"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "586",
+            "State": "KIZILCAHAMAM"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "646",
+            "State": "MAMAK"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "682",
+            "State": "NALLIHAN"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "744",
+            "State": "POLATLI"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "747",
+            "State": "PURSAKLAR"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "806",
+            "State": "SİNCAN"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "853",
+            "State": "ŞEREFLİKOÇHİSAR"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "943",
+            "State": "YENİMAHALLE"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "979",
+            "State": "İVEDİK"
+        },
+        {
+            "CityCode": "6",
+            "City": "ANKARA",
+            "StateCode": "987",
+            "State": "OSTİM"
+        },
+        {
+            "CityCode": "7",
+            "City": "ANTALYA",
+            "StateCode": "33",
+            "State": "AKSEKİ"
+        },
+        {
+            "CityCode": "7",
+            "City": "ANTALYA",
+            "StateCode": "34",
+            "State": "AKSU"
+        },
+        {
+            "CityCode": "7",
+            "City": "ANTALYA",
+            "StateCode": "44",
+            "State": "ALANYA"
+        },
+        {
+            "CityCode": "7",
+            "City": "ANTALYA",
+            "StateCode": "279",
+            "State": "DEMRE"
+        },
+        {
+            "CityCode": "7",
+            "City": "ANTALYA",
+            "StateCode": "311",
+            "State": "DÖŞEMEALTI"
+        },
+        {
+            "CityCode": "7",
+            "City": "ANTALYA",
+            "StateCode": "334",
+            "State": "ELMALI"
+        },
+        {
+            "CityCode": "7",
+            "City": "ANTALYA",
+            "StateCode": "373",
+            "State": "FİNİKE"
+        },
+        {
+            "CityCode": "7",
+            "City": "ANTALYA",
+            "StateCode": "377",
+            "State": "GAZİPAŞA"
+        },
+        {
+            "CityCode": "7",
+            "City": "ANTALYA",
+            "StateCode": "423",
+            "State": "GÜNDOĞMUŞ"
+        },
+        {
+            "CityCode": "7",
+            "City": "ANTALYA",
+            "StateCode": "480",
+            "State": "İBRADI"
+        },
+        {
+            "CityCode": "7",
+            "City": "ANTALYA",
+            "StateCode": "555",
+            "State": "KAŞ"
+        },
+        {
+            "CityCode": "7",
+            "City": "ANTALYA",
+            "StateCode": "571",
+            "State": "KEMER"
+        },
+        {
+            "CityCode": "7",
+            "City": "ANTALYA",
+            "StateCode": "573",
+            "State": "KEPEZ"
+        },
+        {
+            "CityCode": "7",
+            "City": "ANTALYA",
+            "StateCode": "600",
+            "State": "KONYAALTI"
+        },
+        {
+            "CityCode": "7",
+            "City": "ANTALYA",
+            "StateCode": "604",
+            "State": "KORKUTELİ"
+        },
+        {
+            "CityCode": "7",
+            "City": "ANTALYA",
+            "StateCode": "623",
+            "State": "KUMLUCA"
+        },
+        {
+            "CityCode": "7",
+            "City": "ANTALYA",
+            "StateCode": "647",
+            "State": "MANAVGAT"
+        },
+        {
+            "CityCode": "7",
+            "City": "ANTALYA",
+            "StateCode": "675",
+            "State": "MURATPAŞA"
+        },
+        {
+            "CityCode": "7",
+            "City": "ANTALYA",
+            "StateCode": "791",
+            "State": "SERİK"
+        },
+        {
+            "CityCode": "7",
+            "City": "ANTALYA",
+            "StateCode": "981",
+            "State": "ANTALYA"
+        },
+        {
+            "CityCode": "8",
+            "City": "ARTVİN",
+            "StateCode": "72",
+            "State": "ARDANUÇ"
+        },
+        {
+            "CityCode": "8",
+            "City": "ARTVİN",
+            "StateCode": "75",
+            "State": "ARHAVİ"
+        },
+        {
+            "CityCode": "8",
+            "City": "ARTVİN",
+            "StateCode": "85",
+            "State": "ARTVİN"
+        },
+        {
+            "CityCode": "8",
+            "City": "ARTVİN",
+            "StateCode": "172",
+            "State": "BORÇKA"
+        },
+        {
+            "CityCode": "8",
+            "City": "ARTVİN",
+            "StateCode": "472",
+            "State": "HOPA"
+        },
+        {
+            "CityCode": "8",
+            "City": "ARTVİN",
+            "StateCode": "676",
+            "State": "MURGUL"
+        },
+        {
+            "CityCode": "8",
+            "City": "ARTVİN",
+            "StateCode": "845",
+            "State": "ŞAVŞAT"
+        },
+        {
+            "CityCode": "8",
+            "City": "ARTVİN",
+            "StateCode": "964",
+            "State": "YUSUFELİ"
+        },
+        {
+            "CityCode": "8",
+            "City": "ARTVİN",
+            "StateCode": "971",
+            "State": "KEMALPAŞA"
+        },
+        {
+            "CityCode": "9",
+            "City": "AYDIN",
+            "StateCode": "176",
+            "State": "BOZDOĞAN"
+        },
+        {
+            "CityCode": "9",
+            "City": "AYDIN",
+            "StateCode": "186",
+            "State": "BUHARKENT"
+        },
+        {
+            "CityCode": "9",
+            "City": "AYDIN",
+            "StateCode": "256",
+            "State": "ÇİNE"
+        },
+        {
+            "CityCode": "9",
+            "City": "AYDIN",
+            "StateCode": "292",
+            "State": "DİDİM"
+        },
+        {
+            "CityCode": "9",
+            "City": "AYDIN",
+            "StateCode": "323",
+            "State": "EFELER"
+        },
+        {
+            "CityCode": "9",
+            "City": "AYDIN",
+            "StateCode": "388",
+            "State": "GERMENCİK"
+        },
+        {
+            "CityCode": "9",
+            "City": "AYDIN",
+            "StateCode": "491",
+            "State": "İNCİRLİOVA"
+        },
+        {
+            "CityCode": "9",
+            "City": "AYDIN",
+            "StateCode": "528",
+            "State": "KARACASU"
+        },
+        {
+            "CityCode": "9",
+            "City": "AYDIN",
+            "StateCode": "549",
+            "State": "KARPUZLU"
+        },
+        {
+            "CityCode": "9",
+            "City": "AYDIN",
+            "StateCode": "597",
+            "State": "KOÇARLI"
+        },
+        {
+            "CityCode": "9",
+            "City": "AYDIN",
+            "StateCode": "616",
+            "State": "KÖŞK"
+        },
+        {
+            "CityCode": "9",
+            "City": "AYDIN",
+            "StateCode": "628",
+            "State": "KUŞADASI"
+        },
+        {
+            "CityCode": "9",
+            "City": "AYDIN",
+            "StateCode": "629",
+            "State": "KUYUCAK"
+        },
+        {
+            "CityCode": "9",
+            "City": "AYDIN",
+            "StateCode": "686",
+            "State": "NAZİLLİ"
+        },
+        {
+            "CityCode": "9",
+            "City": "AYDIN",
+            "StateCode": "819",
+            "State": "SÖKE"
+        },
+        {
+            "CityCode": "9",
+            "City": "AYDIN",
+            "StateCode": "824",
+            "State": "SULTANHİSAR"
+        },
+        {
+            "CityCode": "9",
+            "City": "AYDIN",
+            "StateCode": "944",
+            "State": "YENİPAZAR"
+        },
+        {
+            "CityCode": "9",
+            "City": "AYDIN",
+            "StateCode": "984",
+            "State": "AYDIN"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "50",
+            "State": "ALTIEYLÜL"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "104",
+            "State": "AYVALIK"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "121",
+            "State": "BALYA"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "123",
+            "State": "BANDIRMA"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "160",
+            "State": "BİGADİÇ"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "191",
+            "State": "BURHANİYE"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "315",
+            "State": "DURSUNBEY"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "321",
+            "State": "EDREMİT"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "341",
+            "State": "ERDEK"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "406",
+            "State": "GÖMEÇ"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "407",
+            "State": "GÖNEN"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "456",
+            "State": "HAVRAN"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "503",
+            "State": "İVRİNDİ"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "545",
+            "State": "KARESİ"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "574",
+            "State": "KEPSUT"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "648",
+            "State": "MANYAS"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "649",
+            "State": "MARMARA"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "781",
+            "State": "SAVAŞTEPE"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "798",
+            "State": "SINDIRGI"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "831",
+            "State": "SUSURLUK"
+        },
+        {
+            "CityCode": "10",
+            "City": "BALIKESİR",
+            "StateCode": "992",
+            "State": "MERKEZ"
+        },
+        {
+            "CityCode": "11",
+            "City": "BİLECİK",
+            "StateCode": "161",
+            "State": "BİLECİK"
+        },
+        {
+            "CityCode": "11",
+            "City": "BİLECİK",
+            "StateCode": "182",
+            "State": "BOZÜYÜK"
+        },
+        {
+            "CityCode": "11",
+            "City": "BİLECİK",
+            "StateCode": "404",
+            "State": "GÖLPAZARI"
+        },
+        {
+            "CityCode": "11",
+            "City": "BİLECİK",
+            "StateCode": "494",
+            "State": "İNHİSAR"
+        },
+        {
+            "CityCode": "11",
+            "City": "BİLECİK",
+            "StateCode": "711",
+            "State": "OSMANELİ"
+        },
+        {
+            "CityCode": "11",
+            "City": "BİLECİK",
+            "StateCode": "732",
+            "State": "PAZARYERİ"
+        },
+        {
+            "CityCode": "11",
+            "City": "BİLECİK",
+            "StateCode": "817",
+            "State": "SÖĞÜT"
+        },
+        {
+            "CityCode": "11",
+            "City": "BİLECİK",
+            "StateCode": "945",
+            "State": "YENİPAZAR"
+        },
+        {
+            "CityCode": "12",
+            "City": "BİNGÖL",
+            "StateCode": "4",
+            "State": "ADAKLI"
+        },
+        {
+            "CityCode": "12",
+            "City": "BİNGÖL",
+            "StateCode": "162",
+            "State": "BİNGÖL"
+        },
+        {
+            "CityCode": "12",
+            "City": "BİNGÖL",
+            "StateCode": "384",
+            "State": "GENÇ"
+        },
+        {
+            "CityCode": "12",
+            "City": "BİNGÖL",
+            "StateCode": "548",
+            "State": "KARLIOVA"
+        },
+        {
+            "CityCode": "12",
+            "City": "BİNGÖL",
+            "StateCode": "590",
+            "State": "KİĞI"
+        },
+        {
+            "CityCode": "12",
+            "City": "BİNGÖL",
+            "StateCode": "814",
+            "State": "SOLHAN"
+        },
+        {
+            "CityCode": "12",
+            "City": "BİNGÖL",
+            "StateCode": "936",
+            "State": "YAYLADERE"
+        },
+        {
+            "CityCode": "12",
+            "City": "BİNGÖL",
+            "StateCode": "938",
+            "State": "YEDİSU"
+        },
+        {
+            "CityCode": "13",
+            "City": "BİTLİS",
+            "StateCode": "8",
+            "State": "ADİLCEVAZ"
+        },
+        {
+            "CityCode": "13",
+            "City": "BİTLİS",
+            "StateCode": "17",
+            "State": "AHLAT"
+        },
+        {
+            "CityCode": "13",
+            "City": "BİTLİS",
+            "StateCode": "165",
+            "State": "BİTLİS"
+        },
+        {
+            "CityCode": "13",
+            "City": "BİTLİS",
+            "StateCode": "430",
+            "State": "GÜROYMAK"
+        },
+        {
+            "CityCode": "13",
+            "City": "BİTLİS",
+            "StateCode": "469",
+            "State": "HİZAN"
+        },
+        {
+            "CityCode": "13",
+            "City": "BİTLİS",
+            "StateCode": "681",
+            "State": "MUTKİ"
+        },
+        {
+            "CityCode": "13",
+            "City": "BİTLİS",
+            "StateCode": "867",
+            "State": "TATVAN"
+        },
+        {
+            "CityCode": "14",
+            "City": "BOLU",
+            "StateCode": "169",
+            "State": "BOLU"
+        },
+        {
+            "CityCode": "14",
+            "City": "BOLU",
+            "StateCode": "309",
+            "State": "DÖRTDİVAN"
+        },
+        {
+            "CityCode": "14",
+            "City": "BOLU",
+            "StateCode": "386",
+            "State": "GEREDE"
+        },
+        {
+            "CityCode": "14",
+            "City": "BOLU",
+            "StateCode": "412",
+            "State": "GÖYNÜK"
+        },
+        {
+            "CityCode": "14",
+            "City": "BOLU",
+            "StateCode": "579",
+            "State": "KIBRISCIK"
+        },
+        {
+            "CityCode": "14",
+            "City": "BOLU",
+            "StateCode": "658",
+            "State": "MENGEN"
+        },
+        {
+            "CityCode": "14",
+            "City": "BOLU",
+            "StateCode": "672",
+            "State": "MUDURNU"
+        },
+        {
+            "CityCode": "14",
+            "City": "BOLU",
+            "StateCode": "783",
+            "State": "SEBEN"
+        },
+        {
+            "CityCode": "14",
+            "City": "BOLU",
+            "StateCode": "941",
+            "State": "YENİÇAĞA"
+        },
+        {
+            "CityCode": "15",
+            "City": "BURDUR",
+            "StateCode": "13",
+            "State": "AĞLASUN"
+        },
+        {
+            "CityCode": "15",
+            "City": "BURDUR",
+            "StateCode": "57",
+            "State": "ALTINYAYLA"
+        },
+        {
+            "CityCode": "15",
+            "City": "BURDUR",
+            "StateCode": "185",
+            "State": "BUCAK"
+        },
+        {
+            "CityCode": "15",
+            "City": "BURDUR",
+            "StateCode": "190",
+            "State": "BURDUR"
+        },
+        {
+            "CityCode": "15",
+            "City": "BURDUR",
+            "StateCode": "227",
+            "State": "ÇAVDIR"
+        },
+        {
+            "CityCode": "15",
+            "City": "BURDUR",
+            "StateCode": "241",
+            "State": "ÇELTİKÇİ"
+        },
+        {
+            "CityCode": "15",
+            "City": "BURDUR",
+            "StateCode": "400",
+            "State": "GÖLHİSAR"
+        },
+        {
+            "CityCode": "15",
+            "City": "BURDUR",
+            "StateCode": "537",
+            "State": "KARAMANLI"
+        },
+        {
+            "CityCode": "15",
+            "City": "BURDUR",
+            "StateCode": "572",
+            "State": "KEMER"
+        },
+        {
+            "CityCode": "15",
+            "City": "BURDUR",
+            "StateCode": "870",
+            "State": "TEFENNİ"
+        },
+        {
+            "CityCode": "15",
+            "City": "BURDUR",
+            "StateCode": "953",
+            "State": "YEŞİLOVA"
+        },
+        {
+            "CityCode": "16",
+            "City": "BURSA",
+            "StateCode": "194",
+            "State": "BÜYÜKORHAN"
+        },
+        {
+            "CityCode": "16",
+            "City": "BURSA",
+            "StateCode": "383",
+            "State": "GEMLİK"
+        },
+        {
+            "CityCode": "16",
+            "City": "BURSA",
+            "StateCode": "432",
+            "State": "GÜRSU"
+        },
+        {
+            "CityCode": "16",
+            "City": "BURSA",
+            "StateCode": "450",
+            "State": "HARMANCIK"
+        },
+        {
+            "CityCode": "16",
+            "City": "BURSA",
+            "StateCode": "493",
+            "State": "İNEGÖL"
+        },
+        {
+            "CityCode": "16",
+            "City": "BURSA",
+            "StateCode": "506",
+            "State": "İZNİK"
+        },
+        {
+            "CityCode": "16",
+            "City": "BURSA",
+            "StateCode": "527",
+            "State": "KARACABEY"
+        },
+        {
+            "CityCode": "16",
+            "City": "BURSA",
+            "StateCode": "566",
+            "State": "KELES"
+        },
+        {
+            "CityCode": "16",
+            "City": "BURSA",
+            "StateCode": "576",
+            "State": "KESTEL"
+        },
+        {
+            "CityCode": "16",
+            "City": "BURSA",
+            "StateCode": "671",
+            "State": "MUDANYA"
+        },
+        {
+            "CityCode": "16",
+            "City": "BURSA",
+            "StateCode": "678",
+            "State": "MUSTAFAKEMALPAŞA"
+        },
+        {
+            "CityCode": "16",
+            "City": "BURSA",
+            "StateCode": "690",
+            "State": "NİLÜFER"
+        },
+        {
+            "CityCode": "16",
+            "City": "BURSA",
+            "StateCode": "703",
+            "State": "ORHANELİ"
+        },
+        {
+            "CityCode": "16",
+            "City": "BURSA",
+            "StateCode": "704",
+            "State": "ORHANGAZİ"
+        },
+        {
+            "CityCode": "16",
+            "City": "BURSA",
+            "StateCode": "712",
+            "State": "OSMANGAZİ"
+        },
+        {
+            "CityCode": "16",
+            "City": "BURSA",
+            "StateCode": "947",
+            "State": "YENİŞEHİR"
+        },
+        {
+            "CityCode": "16",
+            "City": "BURSA",
+            "StateCode": "957",
+            "State": "YILDIRIM"
+        },
+        {
+            "CityCode": "17",
+            "City": "ÇANAKKALE",
+            "StateCode": "102",
+            "State": "AYVACIK"
+        },
+        {
+            "CityCode": "17",
+            "City": "ÇANAKKALE",
+            "StateCode": "140",
+            "State": "BAYRAMİÇ"
+        },
+        {
+            "CityCode": "17",
+            "City": "ÇANAKKALE",
+            "StateCode": "159",
+            "State": "BİGA"
+        },
+        {
+            "CityCode": "17",
+            "City": "ÇANAKKALE",
+            "StateCode": "175",
+            "State": "BOZCAADA"
+        },
+        {
+            "CityCode": "17",
+            "City": "ÇANAKKALE",
+            "StateCode": "212",
+            "State": "ÇAN"
+        },
+        {
+            "CityCode": "17",
+            "City": "ÇANAKKALE",
+            "StateCode": "214",
+            "State": "ÇANAKKALE"
+        },
+        {
+            "CityCode": "17",
+            "City": "ÇANAKKALE",
+            "StateCode": "319",
+            "State": "ECEABAT"
+        },
+        {
+            "CityCode": "17",
+            "City": "ÇANAKKALE",
+            "StateCode": "365",
+            "State": "EZİNE"
+        },
+        {
+            "CityCode": "17",
+            "City": "ÇANAKKALE",
+            "StateCode": "381",
+            "State": "GELİBOLU"
+        },
+        {
+            "CityCode": "17",
+            "City": "ÇANAKKALE",
+            "StateCode": "393",
+            "State": "GÖKÇEADA"
+        },
+        {
+            "CityCode": "17",
+            "City": "ÇANAKKALE",
+            "StateCode": "637",
+            "State": "LAPSEKİ"
+        },
+        {
+            "CityCode": "17",
+            "City": "ÇANAKKALE",
+            "StateCode": "939",
+            "State": "YENİCE"
+        },
+        {
+            "CityCode": "18",
+            "City": "ÇANKIRI",
+            "StateCode": "92",
+            "State": "ATKARACALAR"
+        },
+        {
+            "CityCode": "18",
+            "City": "ÇANKIRI",
+            "StateCode": "141",
+            "State": "BAYRAMÖREN"
+        },
+        {
+            "CityCode": "18",
+            "City": "ÇANKIRI",
+            "StateCode": "217",
+            "State": "ÇANKIRI"
+        },
+        {
+            "CityCode": "18",
+            "City": "ÇANKIRI",
+            "StateCode": "243",
+            "State": "ÇERKEŞ"
+        },
+        {
+            "CityCode": "18",
+            "City": "ÇANKIRI",
+            "StateCode": "331",
+            "State": "ELDİVAN"
+        },
+        {
+            "CityCode": "18",
+            "City": "ÇANKIRI",
+            "StateCode": "477",
+            "State": "ILGAZ"
+        },
+        {
+            "CityCode": "18",
+            "City": "ÇANKIRI",
+            "StateCode": "587",
+            "State": "KIZILIRMAK"
+        },
+        {
+            "CityCode": "18",
+            "City": "ÇANKIRI",
+            "StateCode": "602",
+            "State": "KORGUN"
+        },
+        {
+            "CityCode": "18",
+            "City": "ÇANKIRI",
+            "StateCode": "625",
+            "State": "KURŞUNLU"
+        },
+        {
+            "CityCode": "18",
+            "City": "ÇANKIRI",
+            "StateCode": "705",
+            "State": "ORTA"
+        },
+        {
+            "CityCode": "18",
+            "City": "ÇANKIRI",
+            "StateCode": "838",
+            "State": "ŞABANÖZÜ"
+        },
+        {
+            "CityCode": "18",
+            "City": "ÇANKIRI",
+            "StateCode": "932",
+            "State": "YAPRAKLI"
+        },
+        {
+            "CityCode": "19",
+            "City": "ÇORUM",
+            "StateCode": "40",
+            "State": "ALACA"
+        },
+        {
+            "CityCode": "19",
+            "City": "ÇORUM",
+            "StateCode": "135",
+            "State": "BAYAT"
+        },
+        {
+            "CityCode": "19",
+            "City": "ÇORUM",
+            "StateCode": "167",
+            "State": "BOĞAZKALE"
+        },
+        {
+            "CityCode": "19",
+            "City": "ÇORUM",
+            "StateCode": "260",
+            "State": "ÇORUM"
+        },
+        {
+            "CityCode": "19",
+            "City": "ÇORUM",
+            "StateCode": "300",
+            "State": "DODURGA"
+        },
+        {
+            "CityCode": "19",
+            "City": "ÇORUM",
+            "StateCode": "500",
+            "State": "İSKİLİP"
+        },
+        {
+            "CityCode": "19",
+            "City": "ÇORUM",
+            "StateCode": "546",
+            "State": "KARGI"
+        },
+        {
+            "CityCode": "19",
+            "City": "ÇORUM",
+            "StateCode": "634",
+            "State": "LAÇİN"
+        },
+        {
+            "CityCode": "19",
+            "City": "ÇORUM",
+            "StateCode": "654",
+            "State": "MECİTÖZÜ"
+        },
+        {
+            "CityCode": "19",
+            "City": "ÇORUM",
+            "StateCode": "698",
+            "State": "OĞUZLAR"
+        },
+        {
+            "CityCode": "19",
+            "City": "ÇORUM",
+            "StateCode": "709",
+            "State": "ORTAKÖY"
+        },
+        {
+            "CityCode": "19",
+            "City": "ÇORUM",
+            "StateCode": "710",
+            "State": "OSMANCIK"
+        },
+        {
+            "CityCode": "19",
+            "City": "ÇORUM",
+            "StateCode": "828",
+            "State": "SUNGURLU"
+        },
+        {
+            "CityCode": "19",
+            "City": "ÇORUM",
+            "StateCode": "901",
+            "State": "UĞURLUDAĞ"
+        },
+        {
+            "CityCode": "20",
+            "City": "DENİZLİ",
+            "StateCode": "3",
+            "State": "ACIPAYAM"
+        },
+        {
+            "CityCode": "20",
+            "City": "DENİZLİ",
+            "StateCode": "107",
+            "State": "BABADAĞ"
+        },
+        {
+            "CityCode": "20",
+            "City": "DENİZLİ",
+            "StateCode": "117",
+            "State": "BAKLAN"
+        },
+        {
+            "CityCode": "20",
+            "City": "DENİZLİ",
+            "StateCode": "143",
+            "State": "BEKİLLİ"
+        },
+        {
+            "CityCode": "20",
+            "City": "DENİZLİ",
+            "StateCode": "150",
+            "State": "BEYAĞAÇ"
+        },
+        {
+            "CityCode": "20",
+            "City": "DENİZLİ",
+            "StateCode": "178",
+            "State": "BOZKURT"
+        },
+        {
+            "CityCode": "20",
+            "City": "DENİZLİ",
+            "StateCode": "189",
+            "State": "BULDAN"
+        },
+        {
+            "CityCode": "20",
+            "City": "DENİZLİ",
+            "StateCode": "203",
+            "State": "ÇAL"
+        },
+        {
+            "CityCode": "20",
+            "City": "DENİZLİ",
+            "StateCode": "207",
+            "State": "ÇAMELİ"
+        },
+        {
+            "CityCode": "20",
+            "City": "DENİZLİ",
+            "StateCode": "218",
+            "State": "ÇARDAK"
+        },
+        {
+            "CityCode": "20",
+            "City": "DENİZLİ",
+            "StateCode": "257",
+            "State": "ÇİVRİL"
+        },
+        {
+            "CityCode": "20",
+            "City": "DENİZLİ",
+            "StateCode": "424",
+            "State": "GÜNEY"
+        },
+        {
+            "CityCode": "20",
+            "City": "DENİZLİ",
+            "StateCode": "471",
+            "State": "HONAZ"
+        },
+        {
+            "CityCode": "20",
+            "City": "DENİZLİ",
+            "StateCode": "516",
+            "State": "KALE"
+        },
+        {
+            "CityCode": "20",
+            "City": "DENİZLİ",
+            "StateCode": "662",
+            "State": "MERKEZEFENDİ"
+        },
+        {
+            "CityCode": "20",
+            "City": "DENİZLİ",
+            "StateCode": "723",
+            "State": "PAMUKKALE"
+        },
+        {
+            "CityCode": "20",
+            "City": "DENİZLİ",
+            "StateCode": "767",
+            "State": "SARAYKÖY"
+        },
+        {
+            "CityCode": "20",
+            "City": "DENİZLİ",
+            "StateCode": "792",
+            "State": "SERİNHİSAR"
+        },
+        {
+            "CityCode": "20",
+            "City": "DENİZLİ",
+            "StateCode": "868",
+            "State": "TAVAS"
+        },
+        {
+            "CityCode": "21",
+            "City": "DİYARBAKIR",
+            "StateCode": "111",
+            "State": "BAĞLAR"
+        },
+        {
+            "CityCode": "21",
+            "City": "DİYARBAKIR",
+            "StateCode": "164",
+            "State": "BİSMİL"
+        },
+        {
+            "CityCode": "21",
+            "City": "DİYARBAKIR",
+            "StateCode": "245",
+            "State": "ÇERMİK"
+        },
+        {
+            "CityCode": "21",
+            "City": "DİYARBAKIR",
+            "StateCode": "248",
+            "State": "ÇINAR"
+        },
+        {
+            "CityCode": "21",
+            "City": "DİYARBAKIR",
+            "StateCode": "265",
+            "State": "ÇÜNGÜŞ"
+        },
+        {
+            "CityCode": "21",
+            "City": "DİYARBAKIR",
+            "StateCode": "291",
+            "State": "DİCLE"
+        },
+        {
+            "CityCode": "21",
+            "City": "DİYARBAKIR",
+            "StateCode": "325",
+            "State": "EĞİL"
+        },
+        {
+            "CityCode": "21",
+            "City": "DİYARBAKIR",
+            "StateCode": "347",
+            "State": "ERGANİ"
+        },
+        {
+            "CityCode": "21",
+            "City": "DİYARBAKIR",
+            "StateCode": "448",
+            "State": "HANİ"
+        },
+        {
+            "CityCode": "21",
+            "City": "DİYARBAKIR",
+            "StateCode": "462",
+            "State": "HAZRO"
+        },
+        {
+            "CityCode": "21",
+            "City": "DİYARBAKIR",
+            "StateCode": "558",
+            "State": "KAYAPINAR"
+        },
+        {
+            "CityCode": "21",
+            "City": "DİYARBAKIR",
+            "StateCode": "595",
+            "State": "KOCAKÖY"
+        },
+        {
+            "CityCode": "21",
+            "City": "DİYARBAKIR",
+            "StateCode": "619",
+            "State": "KULP"
+        },
+        {
+            "CityCode": "21",
+            "City": "DİYARBAKIR",
+            "StateCode": "638",
+            "State": "LİCE"
+        },
+        {
+            "CityCode": "21",
+            "City": "DİYARBAKIR",
+            "StateCode": "803",
+            "State": "SİLVAN"
+        },
+        {
+            "CityCode": "21",
+            "City": "DİYARBAKIR",
+            "StateCode": "829",
+            "State": "SUR"
+        },
+        {
+            "CityCode": "21",
+            "City": "DİYARBAKIR",
+            "StateCode": "948",
+            "State": "YENİŞEHİR"
+        },
+        {
+            "CityCode": "22",
+            "City": "EDİRNE",
+            "StateCode": "320",
+            "State": "EDİRNE"
+        },
+        {
+            "CityCode": "22",
+            "City": "EDİRNE",
+            "StateCode": "338",
+            "State": "ENEZ"
+        },
+        {
+            "CityCode": "22",
+            "City": "EDİRNE",
+            "StateCode": "457",
+            "State": "HAVSA"
+        },
+        {
+            "CityCode": "22",
+            "City": "EDİRNE",
+            "StateCode": "497",
+            "State": "İPSALA"
+        },
+        {
+            "CityCode": "22",
+            "City": "EDİRNE",
+            "StateCode": "577",
+            "State": "KEŞAN"
+        },
+        {
+            "CityCode": "22",
+            "City": "EDİRNE",
+            "StateCode": "636",
+            "State": "LALAPAŞA"
+        },
+        {
+            "CityCode": "22",
+            "City": "EDİRNE",
+            "StateCode": "661",
+            "State": "MERİÇ"
+        },
+        {
+            "CityCode": "22",
+            "City": "EDİRNE",
+            "StateCode": "835",
+            "State": "SÜLOĞLU"
+        },
+        {
+            "CityCode": "22",
+            "City": "EDİRNE",
+            "StateCode": "913",
+            "State": "UZUNKÖPRÜ"
+        },
+        {
+            "CityCode": "23",
+            "City": "ELAZIĞ",
+            "StateCode": "12",
+            "State": "AĞIN"
+        },
+        {
+            "CityCode": "23",
+            "City": "ELAZIĞ",
+            "StateCode": "41",
+            "State": "ALACAKAYA"
+        },
+        {
+            "CityCode": "23",
+            "City": "ELAZIĞ",
+            "StateCode": "76",
+            "State": "ARICAK"
+        },
+        {
+            "CityCode": "23",
+            "City": "ELAZIĞ",
+            "StateCode": "125",
+            "State": "BASKİL"
+        },
+        {
+            "CityCode": "23",
+            "City": "ELAZIĞ",
+            "StateCode": "328",
+            "State": "ELAZIĞ"
+        },
+        {
+            "CityCode": "23",
+            "City": "ELAZIĞ",
+            "StateCode": "533",
+            "State": "KARAKOÇAN"
+        },
+        {
+            "CityCode": "23",
+            "City": "ELAZIĞ",
+            "StateCode": "563",
+            "State": "KEBAN"
+        },
+        {
+            "CityCode": "23",
+            "City": "ELAZIĞ",
+            "StateCode": "605",
+            "State": "KOVANCILAR"
+        },
+        {
+            "CityCode": "23",
+            "City": "ELAZIĞ",
+            "StateCode": "641",
+            "State": "MADEN"
+        },
+        {
+            "CityCode": "23",
+            "City": "ELAZIĞ",
+            "StateCode": "722",
+            "State": "PALU"
+        },
+        {
+            "CityCode": "23",
+            "City": "ELAZIĞ",
+            "StateCode": "812",
+            "State": "SİVRİCE"
+        },
+        {
+            "CityCode": "24",
+            "City": "ERZİNCAN",
+            "StateCode": "233",
+            "State": "ÇAYIRLI"
+        },
+        {
+            "CityCode": "24",
+            "City": "ERZİNCAN",
+            "StateCode": "352",
+            "State": "ERZİNCAN"
+        },
+        {
+            "CityCode": "24",
+            "City": "ERZİNCAN",
+            "StateCode": "486",
+            "State": "İLİÇ"
+        },
+        {
+            "CityCode": "24",
+            "City": "ERZİNCAN",
+            "StateCode": "568",
+            "State": "KEMAH"
+        },
+        {
+            "CityCode": "24",
+            "City": "ERZİNCAN",
+            "StateCode": "569",
+            "State": "KEMALİYE"
+        },
+        {
+            "CityCode": "24",
+            "City": "ERZİNCAN",
+            "StateCode": "714",
+            "State": "OTLUKBELİ"
+        },
+        {
+            "CityCode": "24",
+            "City": "ERZİNCAN",
+            "StateCode": "750",
+            "State": "REFAHİYE"
+        },
+        {
+            "CityCode": "24",
+            "City": "ERZİNCAN",
+            "StateCode": "874",
+            "State": "TERCAN"
+        },
+        {
+            "CityCode": "24",
+            "City": "ERZİNCAN",
+            "StateCode": "918",
+            "State": "ÜZÜMLÜ"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "88",
+            "State": "AŞKALE"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "106",
+            "State": "AZİZİYE"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "221",
+            "State": "ÇAT"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "466",
+            "State": "HINIS"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "473",
+            "State": "HORASAN"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "502",
+            "State": "İSPİR"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "529",
+            "State": "KARAÇOBAN"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "544",
+            "State": "KARAYAZI"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "613",
+            "State": "KÖPRÜKÖY"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "684",
+            "State": "NARMAN"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "699",
+            "State": "OLTU"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "700",
+            "State": "OLUR"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "721",
+            "State": "PALANDÖKEN"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "725",
+            "State": "PASİNLER"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "733",
+            "State": "PAZARYOLU"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "851",
+            "State": "ŞENKAYA"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "872",
+            "State": "TEKMAN"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "886",
+            "State": "TORTUM"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "912",
+            "State": "UZUNDERE"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "928",
+            "State": "YAKUTİYE"
+        },
+        {
+            "CityCode": "25",
+            "City": "ERZURUM",
+            "StateCode": "986",
+            "State": "ERZURUM"
+        },
+        {
+            "CityCode": "26",
+            "City": "ESKİŞEHİR",
+            "StateCode": "49",
+            "State": "ALPU"
+        },
+        {
+            "CityCode": "26",
+            "City": "ESKİŞEHİR",
+            "StateCode": "154",
+            "State": "BEYLİKOVA"
+        },
+        {
+            "CityCode": "26",
+            "City": "ESKİŞEHİR",
+            "StateCode": "251",
+            "State": "ÇİFTELER"
+        },
+        {
+            "CityCode": "26",
+            "City": "ESKİŞEHİR",
+            "StateCode": "428",
+            "State": "GÜNYÜZÜ"
+        },
+        {
+            "CityCode": "26",
+            "City": "ESKİŞEHİR",
+            "StateCode": "446",
+            "State": "HAN"
+        },
+        {
+            "CityCode": "26",
+            "City": "ESKİŞEHİR",
+            "StateCode": "495",
+            "State": "İNÖNÜ"
+        },
+        {
+            "CityCode": "26",
+            "City": "ESKİŞEHİR",
+            "StateCode": "642",
+            "State": "MAHMUDİYE"
+        },
+        {
+            "CityCode": "26",
+            "City": "ESKİŞEHİR",
+            "StateCode": "667",
+            "State": "MİHALGAZİ"
+        },
+        {
+            "CityCode": "26",
+            "City": "ESKİŞEHİR",
+            "StateCode": "668",
+            "State": "MİHALIÇÇIK"
+        },
+        {
+            "CityCode": "26",
+            "City": "ESKİŞEHİR",
+            "StateCode": "695",
+            "State": "ODUNPAZARI"
+        },
+        {
+            "CityCode": "26",
+            "City": "ESKİŞEHİR",
+            "StateCode": "769",
+            "State": "SARICAKAYA"
+        },
+        {
+            "CityCode": "26",
+            "City": "ESKİŞEHİR",
+            "StateCode": "797",
+            "State": "SEYİTGAZİ"
+        },
+        {
+            "CityCode": "26",
+            "City": "ESKİŞEHİR",
+            "StateCode": "813",
+            "State": "SİVRİHİSAR"
+        },
+        {
+            "CityCode": "26",
+            "City": "ESKİŞEHİR",
+            "StateCode": "873",
+            "State": "TEPEBAŞI"
+        },
+        {
+            "CityCode": "27",
+            "City": "GAZİANTEP",
+            "StateCode": "66",
+            "State": "ARABAN"
+        },
+        {
+            "CityCode": "27",
+            "City": "GAZİANTEP",
+            "StateCode": "501",
+            "State": "İSLAHİYE"
+        },
+        {
+            "CityCode": "27",
+            "City": "GAZİANTEP",
+            "StateCode": "547",
+            "State": "KARKAMIŞ"
+        },
+        {
+            "CityCode": "27",
+            "City": "GAZİANTEP",
+            "StateCode": "691",
+            "State": "NİZİP"
+        },
+        {
+            "CityCode": "27",
+            "City": "GAZİANTEP",
+            "StateCode": "692",
+            "State": "NURDAĞI"
+        },
+        {
+            "CityCode": "27",
+            "City": "GAZİANTEP",
+            "StateCode": "697",
+            "State": "OĞUZELİ"
+        },
+        {
+            "CityCode": "27",
+            "City": "GAZİANTEP",
+            "StateCode": "839",
+            "State": "ŞAHİNBEY"
+        },
+        {
+            "CityCode": "27",
+            "City": "GAZİANTEP",
+            "StateCode": "848",
+            "State": "ŞEHİTKAMİL"
+        },
+        {
+            "CityCode": "27",
+            "City": "GAZİANTEP",
+            "StateCode": "934",
+            "State": "YAVUZELİ"
+        },
+        {
+            "CityCode": "28",
+            "City": "GİRESUN",
+            "StateCode": "60",
+            "State": "ALUCRA"
+        },
+        {
+            "CityCode": "28",
+            "City": "GİRESUN",
+            "StateCode": "187",
+            "State": "BULANCAK"
+        },
+        {
+            "CityCode": "28",
+            "City": "GİRESUN",
+            "StateCode": "211",
+            "State": "ÇAMOLUK"
+        },
+        {
+            "CityCode": "28",
+            "City": "GİRESUN",
+            "StateCode": "213",
+            "State": "ÇANAKÇI"
+        },
+        {
+            "CityCode": "28",
+            "City": "GİRESUN",
+            "StateCode": "282",
+            "State": "DERELİ"
+        },
+        {
+            "CityCode": "28",
+            "City": "GİRESUN",
+            "StateCode": "302",
+            "State": "DOĞANKENT"
+        },
+        {
+            "CityCode": "28",
+            "City": "GİRESUN",
+            "StateCode": "357",
+            "State": "ESPİYE"
+        },
+        {
+            "CityCode": "28",
+            "City": "GİRESUN",
+            "StateCode": "362",
+            "State": "EYNESİL"
+        },
+        {
+            "CityCode": "28",
+            "City": "GİRESUN",
+            "StateCode": "392",
+            "State": "GİRESUN"
+        },
+        {
+            "CityCode": "28",
+            "City": "GİRESUN",
+            "StateCode": "410",
+            "State": "GÖRELE"
+        },
+        {
+            "CityCode": "28",
+            "City": "GİRESUN",
+            "StateCode": "413",
+            "State": "GÜCE"
+        },
+        {
+            "CityCode": "28",
+            "City": "GİRESUN",
+            "StateCode": "578",
+            "State": "KEŞAP"
+        },
+        {
+            "CityCode": "28",
+            "City": "GİRESUN",
+            "StateCode": "742",
+            "State": "PİRAZİZ"
+        },
+        {
+            "CityCode": "28",
+            "City": "GİRESUN",
+            "StateCode": "846",
+            "State": "ŞEBİNKARAHİSAR"
+        },
+        {
+            "CityCode": "28",
+            "City": "GİRESUN",
+            "StateCode": "879",
+            "State": "TİREBOLU"
+        },
+        {
+            "CityCode": "28",
+            "City": "GİRESUN",
+            "StateCode": "924",
+            "State": "YAĞLIDERE"
+        },
+        {
+            "CityCode": "29",
+            "City": "GÜMÜŞHANE",
+            "StateCode": "421",
+            "State": "GÜMÜŞHANE"
+        },
+        {
+            "CityCode": "29",
+            "City": "GÜMÜŞHANE",
+            "StateCode": "567",
+            "State": "KELKİT"
+        },
+        {
+            "CityCode": "29",
+            "City": "GÜMÜŞHANE",
+            "StateCode": "615",
+            "State": "KÖSE"
+        },
+        {
+            "CityCode": "29",
+            "City": "GÜMÜŞHANE",
+            "StateCode": "632",
+            "State": "KÜRTÜN"
+        },
+        {
+            "CityCode": "29",
+            "City": "GÜMÜŞHANE",
+            "StateCode": "856",
+            "State": "ŞİRAN"
+        },
+        {
+            "CityCode": "29",
+            "City": "GÜMÜŞHANE",
+            "StateCode": "887",
+            "State": "TORUL"
+        },
+        {
+            "CityCode": "30",
+            "City": "HAKKÂRİ",
+            "StateCode": "262",
+            "State": "ÇUKURCA"
+        },
+        {
+            "CityCode": "30",
+            "City": "HAKKÂRİ",
+            "StateCode": "440",
+            "State": "HAKKÂRİ"
+        },
+        {
+            "CityCode": "30",
+            "City": "HAKKÂRİ",
+            "StateCode": "850",
+            "State": "ŞEMDİNLİ"
+        },
+        {
+            "CityCode": "30",
+            "City": "HAKKÂRİ",
+            "StateCode": "965",
+            "State": "YÜKSEKOVA"
+        },
+        {
+            "CityCode": "31",
+            "City": "HATAY",
+            "StateCode": "55",
+            "State": "ALTINÖZÜ"
+        },
+        {
+            "CityCode": "31",
+            "City": "HATAY",
+            "StateCode": "65",
+            "State": "ANTAKYA"
+        },
+        {
+            "CityCode": "31",
+            "City": "HATAY",
+            "StateCode": "82",
+            "State": "ARSUZ"
+        },
+        {
+            "CityCode": "31",
+            "City": "HATAY",
+            "StateCode": "144",
+            "State": "BELEN"
+        },
+        {
+            "CityCode": "31",
+            "City": "HATAY",
+            "StateCode": "274",
+            "State": "DEFNE"
+        },
+        {
+            "CityCode": "31",
+            "City": "HATAY",
+            "StateCode": "310",
+            "State": "DÖRTYOL"
+        },
+        {
+            "CityCode": "31",
+            "City": "HATAY",
+            "StateCode": "351",
+            "State": "ERZİN"
+        },
+        {
+            "CityCode": "31",
+            "City": "HATAY",
+            "StateCode": "455",
+            "State": "HASSA"
+        },
+        {
+            "CityCode": "31",
+            "City": "HATAY",
+            "StateCode": "499",
+            "State": "İSKENDERUN"
+        },
+        {
+            "CityCode": "31",
+            "City": "HATAY",
+            "StateCode": "581",
+            "State": "KIRIKHAN"
+        },
+        {
+            "CityCode": "31",
+            "City": "HATAY",
+            "StateCode": "622",
+            "State": "KUMLU"
+        },
+        {
+            "CityCode": "31",
+            "City": "HATAY",
+            "StateCode": "727",
+            "State": "PAYAS"
+        },
+        {
+            "CityCode": "31",
+            "City": "HATAY",
+            "StateCode": "752",
+            "State": "REYHANLI"
+        },
+        {
+            "CityCode": "31",
+            "City": "HATAY",
+            "StateCode": "758",
+            "State": "SAMANDAĞ"
+        },
+        {
+            "CityCode": "31",
+            "City": "HATAY",
+            "StateCode": "935",
+            "State": "YAYLADAĞI"
+        },
+        {
+            "CityCode": "32",
+            "City": "ISPARTA",
+            "StateCode": "35",
+            "State": "AKSU"
+        },
+        {
+            "CityCode": "32",
+            "City": "ISPARTA",
+            "StateCode": "89",
+            "State": "ATABEY"
+        },
+        {
+            "CityCode": "32",
+            "City": "ISPARTA",
+            "StateCode": "326",
+            "State": "EĞİRDİR"
+        },
+        {
+            "CityCode": "32",
+            "City": "ISPARTA",
+            "StateCode": "380",
+            "State": "GELENDOST"
+        },
+        {
+            "CityCode": "32",
+            "City": "ISPARTA",
+            "StateCode": "408",
+            "State": "GÖNEN"
+        },
+        {
+            "CityCode": "32",
+            "City": "ISPARTA",
+            "StateCode": "479",
+            "State": "ISPARTA"
+        },
+        {
+            "CityCode": "32",
+            "City": "ISPARTA",
+            "StateCode": "564",
+            "State": "KEÇİBORLU"
+        },
+        {
+            "CityCode": "32",
+            "City": "ISPARTA",
+            "StateCode": "789",
+            "State": "SENİRKENT"
+        },
+        {
+            "CityCode": "32",
+            "City": "ISPARTA",
+            "StateCode": "837",
+            "State": "SÜTÇÜLER"
+        },
+        {
+            "CityCode": "32",
+            "City": "ISPARTA",
+            "StateCode": "843",
+            "State": "ŞARKİKARAAĞAÇ"
+        },
+        {
+            "CityCode": "32",
+            "City": "ISPARTA",
+            "StateCode": "906",
+            "State": "ULUBORLU"
+        },
+        {
+            "CityCode": "32",
+            "City": "ISPARTA",
+            "StateCode": "931",
+            "State": "YALVAÇ"
+        },
+        {
+            "CityCode": "32",
+            "City": "ISPARTA",
+            "StateCode": "946",
+            "State": "YENİŞARBADEMLİ"
+        },
+        {
+            "CityCode": "33",
+            "City": "MERSİN",
+            "StateCode": "25",
+            "State": "AKDENİZ"
+        },
+        {
+            "CityCode": "33",
+            "City": "MERSİN",
+            "StateCode": "63",
+            "State": "ANAMUR"
+        },
+        {
+            "CityCode": "33",
+            "City": "MERSİN",
+            "StateCode": "98",
+            "State": "AYDINCIK"
+        },
+        {
+            "CityCode": "33",
+            "City": "MERSİN",
+            "StateCode": "183",
+            "State": "BOZYAZI"
+        },
+        {
+            "CityCode": "33",
+            "City": "MERSİN",
+            "StateCode": "210",
+            "State": "ÇAMLIYAYLA"
+        },
+        {
+            "CityCode": "33",
+            "City": "MERSİN",
+            "StateCode": "342",
+            "State": "ERDEMLİ"
+        },
+        {
+            "CityCode": "33",
+            "City": "MERSİN",
+            "StateCode": "417",
+            "State": "GÜLNAR"
+        },
+        {
+            "CityCode": "33",
+            "City": "MERSİN",
+            "StateCode": "665",
+            "State": "MEZİTLİ"
+        },
+        {
+            "CityCode": "33",
+            "City": "MERSİN",
+            "StateCode": "680",
+            "State": "MUT"
+        },
+        {
+            "CityCode": "33",
+            "City": "MERSİN",
+            "StateCode": "800",
+            "State": "SİLİFKE"
+        },
+        {
+            "CityCode": "33",
+            "City": "MERSİN",
+            "StateCode": "862",
+            "State": "TARSUS"
+        },
+        {
+            "CityCode": "33",
+            "City": "MERSİN",
+            "StateCode": "885",
+            "State": "TOROSLAR"
+        },
+        {
+            "CityCode": "33",
+            "City": "MERSİN",
+            "StateCode": "949",
+            "State": "YENİŞEHİR"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "5",
+            "State": "ADALAR"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "79",
+            "State": "ARNAVUTKÖY"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "91",
+            "State": "ATAŞEHİR"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "94",
+            "State": "AVCILAR"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "110",
+            "State": "BAĞCILAR"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "113",
+            "State": "BAHÇELİEVLER"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "116",
+            "State": "BAKIRKÖY"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "126",
+            "State": "BAŞAKŞEHİR"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "142",
+            "State": "BAYRAMPAŞA"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "148",
+            "State": "BEŞİKTAŞ"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "152",
+            "State": "BEYKOZ"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "153",
+            "State": "BEYLİKDÜZÜ"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "155",
+            "State": "BEYOĞLU"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "193",
+            "State": "BÜYÜKÇEKMECE"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "223",
+            "State": "ÇATALCA"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "237",
+            "State": "ÇEKMEKÖY"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "353",
+            "State": "ESENLER"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "354",
+            "State": "ESENYURT"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "363",
+            "State": "EYÜP"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "366",
+            "State": "FATİH"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "376",
+            "State": "GAZİOSMANPAŞA"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "427",
+            "State": "GÜNGÖREN"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "509",
+            "State": "KADIKÖY"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "513",
+            "State": "KAĞITHANE"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "552",
+            "State": "KARTAL"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "630",
+            "State": "KÜÇÜKÇEKMECE"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "645",
+            "State": "MALTEPE"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "735",
+            "State": "PENDİK"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "760",
+            "State": "SANCAKTEPE"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "777",
+            "State": "SARIYER"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "801",
+            "State": "SİLİVRİ"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "821",
+            "State": "SULTANBEYLİ"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "823",
+            "State": "SULTANGAZİ"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "855",
+            "State": "ŞİLE"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "858",
+            "State": "ŞİŞLİ"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "896",
+            "State": "TUZLA"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "914",
+            "State": "ÜMRANİYE"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "917",
+            "State": "ÜSKÜDAR"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "968",
+            "State": "ZEYTİNBURNU"
+        },
+        {
+            "CityCode": "34",
+            "City": "İSTANBUL",
+            "StateCode": "996",
+            "State": "EMİNÖNÜ"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "47",
+            "State": "ALİAĞA"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "119",
+            "State": "BALÇOVA"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "137",
+            "State": "BAYINDIR"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "139",
+            "State": "BAYRAKLI"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "145",
+            "State": "BERGAMA"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "151",
+            "State": "BEYDAĞ"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "173",
+            "State": "BORNOVA"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "184",
+            "State": "BUCA"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "246",
+            "State": "ÇEŞME"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "254",
+            "State": "ÇİĞLİ"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "294",
+            "State": "DİKİLİ"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "374",
+            "State": "FOÇA"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "375",
+            "State": "GAZİEMİR"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "434",
+            "State": "GÜZELBAHÇE"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "524",
+            "State": "KARABAĞLAR"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "525",
+            "State": "KARABURUN"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "551",
+            "State": "KARŞIYAKA"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "570",
+            "State": "KEMALPAŞA"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "580",
+            "State": "KINIK"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "593",
+            "State": "KİRAZ"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "599",
+            "State": "KONAK"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "656",
+            "State": "MENDERES"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "657",
+            "State": "MENEMEN"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "683",
+            "State": "NARLIDERE"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "717",
+            "State": "ÖDEMİŞ"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "784",
+            "State": "SEFERİHİSAR"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "785",
+            "State": "SELÇUK"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "878",
+            "State": "TİRE"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "884",
+            "State": "TORBALI"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "910",
+            "State": "URLA"
+        },
+        {
+            "CityCode": "35",
+            "City": "İZMİR",
+            "StateCode": "975",
+            "State": "MERKEZ"
+        },
+        {
+            "CityCode": "36",
+            "City": "KARS",
+            "StateCode": "37",
+            "State": "AKYAKA"
+        },
+        {
+            "CityCode": "36",
+            "City": "KARS",
+            "StateCode": "80",
+            "State": "ARPAÇAY"
+        },
+        {
+            "CityCode": "36",
+            "City": "KARS",
+            "StateCode": "293",
+            "State": "DİGOR"
+        },
+        {
+            "CityCode": "36",
+            "City": "KARS",
+            "StateCode": "514",
+            "State": "KAĞIZMAN"
+        },
+        {
+            "CityCode": "36",
+            "City": "KARS",
+            "StateCode": "550",
+            "State": "KARS"
+        },
+        {
+            "CityCode": "36",
+            "City": "KARS",
+            "StateCode": "772",
+            "State": "SARIKAMIŞ"
+        },
+        {
+            "CityCode": "36",
+            "City": "KARS",
+            "StateCode": "788",
+            "State": "SELİM"
+        },
+        {
+            "CityCode": "36",
+            "City": "KARS",
+            "StateCode": "832",
+            "State": "SUSUZ"
+        },
+        {
+            "CityCode": "37",
+            "City": "KASTAMONU",
+            "StateCode": "1",
+            "State": "ABANA"
+        },
+        {
+            "CityCode": "37",
+            "City": "KASTAMONU",
+            "StateCode": "14",
+            "State": "AĞLI"
+        },
+        {
+            "CityCode": "37",
+            "City": "KASTAMONU",
+            "StateCode": "67",
+            "State": "ARAÇ"
+        },
+        {
+            "CityCode": "37",
+            "City": "KASTAMONU",
+            "StateCode": "105",
+            "State": "AZDAVAY"
+        },
+        {
+            "CityCode": "37",
+            "City": "KASTAMONU",
+            "StateCode": "179",
+            "State": "BOZKURT"
+        },
+        {
+            "CityCode": "37",
+            "City": "KASTAMONU",
+            "StateCode": "198",
+            "State": "CİDE"
+        },
+        {
+            "CityCode": "37",
+            "City": "KASTAMONU",
+            "StateCode": "225",
+            "State": "ÇATALZEYTİN"
+        },
+        {
+            "CityCode": "37",
+            "City": "KASTAMONU",
+            "StateCode": "266",
+            "State": "DADAY"
+        },
+        {
+            "CityCode": "37",
+            "City": "KASTAMONU",
+            "StateCode": "290",
+            "State": "DEVREKANİ"
+        },
+        {
+            "CityCode": "37",
+            "City": "KASTAMONU",
+            "StateCode": "306",
+            "State": "DOĞANYURT"
+        },
+        {
+            "CityCode": "37",
+            "City": "KASTAMONU",
+            "StateCode": "449",
+            "State": "HANÖNÜ"
+        },
+        {
+            "CityCode": "37",
+            "City": "KASTAMONU",
+            "StateCode": "482",
+            "State": "İHSANGAZİ"
+        },
+        {
+            "CityCode": "37",
+            "City": "KASTAMONU",
+            "StateCode": "492",
+            "State": "İNEBOLU"
+        },
+        {
+            "CityCode": "37",
+            "City": "KASTAMONU",
+            "StateCode": "554",
+            "State": "KASTAMONU"
+        },
+        {
+            "CityCode": "37",
+            "City": "KASTAMONU",
+            "StateCode": "631",
+            "State": "KÜRE"
+        },
+        {
+            "CityCode": "37",
+            "City": "KASTAMONU",
+            "StateCode": "739",
+            "State": "PINARBAŞI"
+        },
+        {
+            "CityCode": "37",
+            "City": "KASTAMONU",
+            "StateCode": "794",
+            "State": "SEYDİLER"
+        },
+        {
+            "CityCode": "37",
+            "City": "KASTAMONU",
+            "StateCode": "852",
+            "State": "ŞENPAZAR"
+        },
+        {
+            "CityCode": "37",
+            "City": "KASTAMONU",
+            "StateCode": "864",
+            "State": "TAŞKÖPRÜ"
+        },
+        {
+            "CityCode": "37",
+            "City": "KASTAMONU",
+            "StateCode": "888",
+            "State": "TOSYA"
+        },
+        {
+            "CityCode": "38",
+            "City": "KAYSERİ",
+            "StateCode": "28",
+            "State": "AKKIŞLA"
+        },
+        {
+            "CityCode": "38",
+            "City": "KAYSERİ",
+            "StateCode": "192",
+            "State": "BÜNYAN"
+        },
+        {
+            "CityCode": "38",
+            "City": "KAYSERİ",
+            "StateCode": "288",
+            "State": "DEVELİ"
+        },
+        {
+            "CityCode": "38",
+            "City": "KAYSERİ",
+            "StateCode": "369",
+            "State": "FELAHİYE"
+        },
+        {
+            "CityCode": "38",
+            "City": "KAYSERİ",
+            "StateCode": "437",
+            "State": "HACILAR"
+        },
+        {
+            "CityCode": "38",
+            "City": "KAYSERİ",
+            "StateCode": "490",
+            "State": "İNCESU"
+        },
+        {
+            "CityCode": "38",
+            "City": "KAYSERİ",
+            "StateCode": "596",
+            "State": "KOCASİNAN"
+        },
+        {
+            "CityCode": "38",
+            "City": "KAYSERİ",
+            "StateCode": "655",
+            "State": "MELİKGAZİ"
+        },
+        {
+            "CityCode": "38",
+            "City": "KAYSERİ",
+            "StateCode": "720",
+            "State": "ÖZVATAN"
+        },
+        {
+            "CityCode": "38",
+            "City": "KAYSERİ",
+            "StateCode": "740",
+            "State": "PINARBAŞI"
+        },
+        {
+            "CityCode": "38",
+            "City": "KAYSERİ",
+            "StateCode": "774",
+            "State": "SARIOĞLAN"
+        },
+        {
+            "CityCode": "38",
+            "City": "KAYSERİ",
+            "StateCode": "778",
+            "State": "SARIZ"
+        },
+        {
+            "CityCode": "38",
+            "City": "KAYSERİ",
+            "StateCode": "860",
+            "State": "TALAS"
+        },
+        {
+            "CityCode": "38",
+            "City": "KAYSERİ",
+            "StateCode": "881",
+            "State": "TOMARZA"
+        },
+        {
+            "CityCode": "38",
+            "City": "KAYSERİ",
+            "StateCode": "926",
+            "State": "YAHYALI"
+        },
+        {
+            "CityCode": "38",
+            "City": "KAYSERİ",
+            "StateCode": "951",
+            "State": "YEŞİLHİSAR"
+        },
+        {
+            "CityCode": "39",
+            "City": "KIRKLARELİ",
+            "StateCode": "108",
+            "State": "BABAESKİ"
+        },
+        {
+            "CityCode": "39",
+            "City": "KIRKLARELİ",
+            "StateCode": "277",
+            "State": "DEMİRKÖY"
+        },
+        {
+            "CityCode": "39",
+            "City": "KIRKLARELİ",
+            "StateCode": "584",
+            "State": "KIRKLARELİ"
+        },
+        {
+            "CityCode": "39",
+            "City": "KIRKLARELİ",
+            "StateCode": "598",
+            "State": "KOFÇAZ"
+        },
+        {
+            "CityCode": "39",
+            "City": "KIRKLARELİ",
+            "StateCode": "639",
+            "State": "LÜLEBURGAZ"
+        },
+        {
+            "CityCode": "39",
+            "City": "KIRKLARELİ",
+            "StateCode": "734",
+            "State": "PEHLİVANKÖY"
+        },
+        {
+            "CityCode": "39",
+            "City": "KIRKLARELİ",
+            "StateCode": "741",
+            "State": "PINARHİSAR"
+        },
+        {
+            "CityCode": "39",
+            "City": "KIRKLARELİ",
+            "StateCode": "923",
+            "State": "VİZE"
+        },
+        {
+            "CityCode": "40",
+            "City": "KIRŞEHİR",
+            "StateCode": "22",
+            "State": "AKÇAKENT"
+        },
+        {
+            "CityCode": "40",
+            "City": "KIRŞEHİR",
+            "StateCode": "31",
+            "State": "AKPINAR"
+        },
+        {
+            "CityCode": "40",
+            "City": "KIRŞEHİR",
+            "StateCode": "181",
+            "State": "BOZTEPE"
+        },
+        {
+            "CityCode": "40",
+            "City": "KIRŞEHİR",
+            "StateCode": "250",
+            "State": "ÇİÇEKDAĞI"
+        },
+        {
+            "CityCode": "40",
+            "City": "KIRŞEHİR",
+            "StateCode": "520",
+            "State": "KAMAN"
+        },
+        {
+            "CityCode": "40",
+            "City": "KIRŞEHİR",
+            "StateCode": "585",
+            "State": "KIRŞEHİR"
+        },
+        {
+            "CityCode": "40",
+            "City": "KIRŞEHİR",
+            "StateCode": "670",
+            "State": "MUCUR"
+        },
+        {
+            "CityCode": "41",
+            "City": "KOCAELİ",
+            "StateCode": "128",
+            "State": "BAŞİSKELE"
+        },
+        {
+            "CityCode": "41",
+            "City": "KOCAELİ",
+            "StateCode": "234",
+            "State": "ÇAYIROVA"
+        },
+        {
+            "CityCode": "41",
+            "City": "KOCAELİ",
+            "StateCode": "271",
+            "State": "DARICA"
+        },
+        {
+            "CityCode": "41",
+            "City": "KOCAELİ",
+            "StateCode": "285",
+            "State": "DERİNCE"
+        },
+        {
+            "CityCode": "41",
+            "City": "KOCAELİ",
+            "StateCode": "296",
+            "State": "DİLOVASI"
+        },
+        {
+            "CityCode": "41",
+            "City": "KOCAELİ",
+            "StateCode": "378",
+            "State": "GEBZE"
+        },
+        {
+            "CityCode": "41",
+            "City": "KOCAELİ",
+            "StateCode": "398",
+            "State": "GÖLCÜK"
+        },
+        {
+            "CityCode": "41",
+            "City": "KOCAELİ",
+            "StateCode": "505",
+            "State": "İZMİT"
+        },
+        {
+            "CityCode": "41",
+            "City": "KOCAELİ",
+            "StateCode": "521",
+            "State": "KANDIRA"
+        },
+        {
+            "CityCode": "41",
+            "City": "KOCAELİ",
+            "StateCode": "538",
+            "State": "KARAMÜRSEL"
+        },
+        {
+            "CityCode": "41",
+            "City": "KOCAELİ",
+            "StateCode": "553",
+            "State": "KARTEPE"
+        },
+        {
+            "CityCode": "41",
+            "City": "KOCAELİ",
+            "StateCode": "614",
+            "State": "KÖRFEZ"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "16",
+            "State": "AHIRLI"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "30",
+            "State": "AKÖREN"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "36",
+            "State": "AKŞEHİR"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "52",
+            "State": "ALTINEKİN"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "157",
+            "State": "BEYŞEHİR"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "177",
+            "State": "BOZKIR"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "199",
+            "State": "CİHANBEYLİ"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "240",
+            "State": "ÇELTİK"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "264",
+            "State": "ÇUMRA"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "280",
+            "State": "DERBENT"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "281",
+            "State": "DEREBUCAK"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "301",
+            "State": "DOĞANHİSAR"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "337",
+            "State": "EMİRGAZİ"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "343",
+            "State": "EREĞLİ"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "425",
+            "State": "GÜNEYSINIR"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "438",
+            "State": "HADİM"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "443",
+            "State": "HALKAPINAR"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "475",
+            "State": "HÜYÜK"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "478",
+            "State": "ILGIN"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "510",
+            "State": "KADINHANI"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "539",
+            "State": "KARAPINAR"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "543",
+            "State": "KARATAY"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "620",
+            "State": "KULU"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "660",
+            "State": "MERAM"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "768",
+            "State": "SARAYÖNÜ"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "786",
+            "State": "SELÇUKLU"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "795",
+            "State": "SEYDİŞEHİR"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "863",
+            "State": "TAŞKENT"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "898",
+            "State": "TUZLUKÇU"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "929",
+            "State": "YALIHÜYÜK"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "962",
+            "State": "YUNAK"
+        },
+        {
+            "CityCode": "42",
+            "City": "KONYA",
+            "StateCode": "993",
+            "State": "MERKEZ"
+        },
+        {
+            "CityCode": "43",
+            "City": "KÜTAHYA",
+            "StateCode": "56",
+            "State": "ALTINTAŞ"
+        },
+        {
+            "CityCode": "43",
+            "City": "KÜTAHYA",
+            "StateCode": "87",
+            "State": "ASLANAPA"
+        },
+        {
+            "CityCode": "43",
+            "City": "KÜTAHYA",
+            "StateCode": "226",
+            "State": "ÇAVDARHİSAR"
+        },
+        {
+            "CityCode": "43",
+            "City": "KÜTAHYA",
+            "StateCode": "308",
+            "State": "DOMANİÇ"
+        },
+        {
+            "CityCode": "43",
+            "City": "KÜTAHYA",
+            "StateCode": "313",
+            "State": "DUMLUPINAR"
+        },
+        {
+            "CityCode": "43",
+            "City": "KÜTAHYA",
+            "StateCode": "335",
+            "State": "EMET"
+        },
+        {
+            "CityCode": "43",
+            "City": "KÜTAHYA",
+            "StateCode": "379",
+            "State": "GEDİZ"
+        },
+        {
+            "CityCode": "43",
+            "City": "KÜTAHYA",
+            "StateCode": "468",
+            "State": "HİSARCIK"
+        },
+        {
+            "CityCode": "43",
+            "City": "KÜTAHYA",
+            "StateCode": "633",
+            "State": "KÜTAHYA"
+        },
+        {
+            "CityCode": "43",
+            "City": "KÜTAHYA",
+            "StateCode": "731",
+            "State": "PAZARLAR"
+        },
+        {
+            "CityCode": "43",
+            "City": "KÜTAHYA",
+            "StateCode": "804",
+            "State": "SİMAV"
+        },
+        {
+            "CityCode": "43",
+            "City": "KÜTAHYA",
+            "StateCode": "841",
+            "State": "ŞAPHANE"
+        },
+        {
+            "CityCode": "43",
+            "City": "KÜTAHYA",
+            "StateCode": "869",
+            "State": "TAVŞANLI"
+        },
+        {
+            "CityCode": "44",
+            "City": "MALATYA",
+            "StateCode": "20",
+            "State": "AKÇADAĞ"
+        },
+        {
+            "CityCode": "44",
+            "City": "MALATYA",
+            "StateCode": "70",
+            "State": "ARAPGİR"
+        },
+        {
+            "CityCode": "44",
+            "City": "MALATYA",
+            "StateCode": "74",
+            "State": "ARGUVAN"
+        },
+        {
+            "CityCode": "44",
+            "City": "MALATYA",
+            "StateCode": "133",
+            "State": "BATTALGAZİ"
+        },
+        {
+            "CityCode": "44",
+            "City": "MALATYA",
+            "StateCode": "269",
+            "State": "DARENDE"
+        },
+        {
+            "CityCode": "44",
+            "City": "MALATYA",
+            "StateCode": "304",
+            "State": "DOĞANŞEHİR"
+        },
+        {
+            "CityCode": "44",
+            "City": "MALATYA",
+            "StateCode": "305",
+            "State": "DOĞANYOL"
+        },
+        {
+            "CityCode": "44",
+            "City": "MALATYA",
+            "StateCode": "463",
+            "State": "HEKİMHAN"
+        },
+        {
+            "CityCode": "44",
+            "City": "MALATYA",
+            "StateCode": "517",
+            "State": "KALE"
+        },
+        {
+            "CityCode": "44",
+            "City": "MALATYA",
+            "StateCode": "621",
+            "State": "KULUNCAK"
+        },
+        {
+            "CityCode": "44",
+            "City": "MALATYA",
+            "StateCode": "749",
+            "State": "PÜTÜRGE"
+        },
+        {
+            "CityCode": "44",
+            "City": "MALATYA",
+            "StateCode": "937",
+            "State": "YAZIHAN"
+        },
+        {
+            "CityCode": "44",
+            "City": "MALATYA",
+            "StateCode": "954",
+            "State": "YEŞİLYURT"
+        },
+        {
+            "CityCode": "44",
+            "City": "MALATYA",
+            "StateCode": "991",
+            "State": "MERKEZ"
+        },
+        {
+            "CityCode": "45",
+            "City": "MANİSA",
+            "StateCode": "18",
+            "State": "AHMETLİ"
+        },
+        {
+            "CityCode": "45",
+            "City": "MANİSA",
+            "StateCode": "26",
+            "State": "AKHİSAR"
+        },
+        {
+            "CityCode": "45",
+            "City": "MANİSA",
+            "StateCode": "46",
+            "State": "ALAŞEHİR"
+        },
+        {
+            "CityCode": "45",
+            "City": "MANİSA",
+            "StateCode": "276",
+            "State": "DEMİRCİ"
+        },
+        {
+            "CityCode": "45",
+            "City": "MANİSA",
+            "StateCode": "402",
+            "State": "GÖLMARMARA"
+        },
+        {
+            "CityCode": "45",
+            "City": "MANİSA",
+            "StateCode": "409",
+            "State": "GÖRDES"
+        },
+        {
+            "CityCode": "45",
+            "City": "MANİSA",
+            "StateCode": "583",
+            "State": "KIRKAĞAÇ"
+        },
+        {
+            "CityCode": "45",
+            "City": "MANİSA",
+            "StateCode": "611",
+            "State": "KÖPRÜBAŞI"
+        },
+        {
+            "CityCode": "45",
+            "City": "MANİSA",
+            "StateCode": "618",
+            "State": "KULA"
+        },
+        {
+            "CityCode": "45",
+            "City": "MANİSA",
+            "StateCode": "757",
+            "State": "SALİHLİ"
+        },
+        {
+            "CityCode": "45",
+            "City": "MANİSA",
+            "StateCode": "771",
+            "State": "SARIGÖL"
+        },
+        {
+            "CityCode": "45",
+            "City": "MANİSA",
+            "StateCode": "779",
+            "State": "SARUHANLI"
+        },
+        {
+            "CityCode": "45",
+            "City": "MANİSA",
+            "StateCode": "787",
+            "State": "SELENDİ"
+        },
+        {
+            "CityCode": "45",
+            "City": "MANİSA",
+            "StateCode": "815",
+            "State": "SOMA"
+        },
+        {
+            "CityCode": "45",
+            "City": "MANİSA",
+            "StateCode": "849",
+            "State": "ŞEHZADELER"
+        },
+        {
+            "CityCode": "45",
+            "City": "MANİSA",
+            "StateCode": "891",
+            "State": "TURGUTLU"
+        },
+        {
+            "CityCode": "45",
+            "City": "MANİSA",
+            "StateCode": "963",
+            "State": "YUNUSEMRE"
+        },
+        {
+            "CityCode": "45",
+            "City": "MANİSA",
+            "StateCode": "974",
+            "State": "MERKEZ"
+        },
+        {
+            "CityCode": "45",
+            "City": "MANİSA",
+            "StateCode": "988",
+            "State": "MURADİYE"
+        },
+        {
+            "CityCode": "46",
+            "City": "KAHRAMANMARAŞ",
+            "StateCode": "9",
+            "State": "AFŞİN"
+        },
+        {
+            "CityCode": "46",
+            "City": "KAHRAMANMARAŞ",
+            "StateCode": "64",
+            "State": "ANDIRIN"
+        },
+        {
+            "CityCode": "46",
+            "City": "KAHRAMANMARAŞ",
+            "StateCode": "202",
+            "State": "ÇAĞLAYANCERİT"
+        },
+        {
+            "CityCode": "46",
+            "City": "KAHRAMANMARAŞ",
+            "StateCode": "312",
+            "State": "DULKADİROĞLU"
+        },
+        {
+            "CityCode": "46",
+            "City": "KAHRAMANMARAŞ",
+            "StateCode": "327",
+            "State": "EKİNÖZÜ"
+        },
+        {
+            "CityCode": "46",
+            "City": "KAHRAMANMARAŞ",
+            "StateCode": "330",
+            "State": "ELBİSTAN"
+        },
+        {
+            "CityCode": "46",
+            "City": "KAHRAMANMARAŞ",
+            "StateCode": "395",
+            "State": "GÖKSUN"
+        },
+        {
+            "CityCode": "46",
+            "City": "KAHRAMANMARAŞ",
+            "StateCode": "693",
+            "State": "NURHAK"
+        },
+        {
+            "CityCode": "46",
+            "City": "KAHRAMANMARAŞ",
+            "StateCode": "702",
+            "State": "ONİKİŞUBAT"
+        },
+        {
+            "CityCode": "46",
+            "City": "KAHRAMANMARAŞ",
+            "StateCode": "730",
+            "State": "PAZARCIK"
+        },
+        {
+            "CityCode": "46",
+            "City": "KAHRAMANMARAŞ",
+            "StateCode": "900",
+            "State": "TÜRKOĞLU"
+        },
+        {
+            "CityCode": "46",
+            "City": "KAHRAMANMARAŞ",
+            "StateCode": "980",
+            "State": "KAHRAMANMARAŞ"
+        },
+        {
+            "CityCode": "47",
+            "City": "MARDİN",
+            "StateCode": "84",
+            "State": "ARTUKLU"
+        },
+        {
+            "CityCode": "47",
+            "City": "MARDİN",
+            "StateCode": "270",
+            "State": "DARGEÇİT"
+        },
+        {
+            "CityCode": "47",
+            "City": "MARDİN",
+            "StateCode": "284",
+            "State": "DERİK"
+        },
+        {
+            "CityCode": "47",
+            "City": "MARDİN",
+            "StateCode": "589",
+            "State": "KIZILTEPE"
+        },
+        {
+            "CityCode": "47",
+            "City": "MARDİN",
+            "StateCode": "653",
+            "State": "MAZIDAĞI"
+        },
+        {
+            "CityCode": "47",
+            "City": "MARDİN",
+            "StateCode": "666",
+            "State": "MİDYAT"
+        },
+        {
+            "CityCode": "47",
+            "City": "MARDİN",
+            "StateCode": "694",
+            "State": "NUSAYBİN"
+        },
+        {
+            "CityCode": "47",
+            "City": "MARDİN",
+            "StateCode": "718",
+            "State": "ÖMERLİ"
+        },
+        {
+            "CityCode": "47",
+            "City": "MARDİN",
+            "StateCode": "782",
+            "State": "SAVUR"
+        },
+        {
+            "CityCode": "47",
+            "City": "MARDİN",
+            "StateCode": "952",
+            "State": "YEŞİLLİ"
+        },
+        {
+            "CityCode": "48",
+            "City": "MUĞLA",
+            "StateCode": "166",
+            "State": "BODRUM"
+        },
+        {
+            "CityCode": "48",
+            "City": "MUĞLA",
+            "StateCode": "267",
+            "State": "DALAMAN"
+        },
+        {
+            "CityCode": "48",
+            "City": "MUĞLA",
+            "StateCode": "272",
+            "State": "DATÇA"
+        },
+        {
+            "CityCode": "48",
+            "City": "MUĞLA",
+            "StateCode": "371",
+            "State": "FETHİYE"
+        },
+        {
+            "CityCode": "48",
+            "City": "MUĞLA",
+            "StateCode": "557",
+            "State": "KAVAKLIDERE"
+        },
+        {
+            "CityCode": "48",
+            "City": "MUĞLA",
+            "StateCode": "617",
+            "State": "KÖYCEĞİZ"
+        },
+        {
+            "CityCode": "48",
+            "City": "MUĞLA",
+            "StateCode": "651",
+            "State": "MARMARİS"
+        },
+        {
+            "CityCode": "48",
+            "City": "MUĞLA",
+            "StateCode": "659",
+            "State": "MENTEŞE"
+        },
+        {
+            "CityCode": "48",
+            "City": "MUĞLA",
+            "StateCode": "669",
+            "State": "MİLAS"
+        },
+        {
+            "CityCode": "48",
+            "City": "MUĞLA",
+            "StateCode": "706",
+            "State": "ORTACA"
+        },
+        {
+            "CityCode": "48",
+            "City": "MUĞLA",
+            "StateCode": "793",
+            "State": "SEYDİKEMER"
+        },
+        {
+            "CityCode": "48",
+            "City": "MUĞLA",
+            "StateCode": "902",
+            "State": "ULA"
+        },
+        {
+            "CityCode": "48",
+            "City": "MUĞLA",
+            "StateCode": "933",
+            "State": "YATAĞAN"
+        },
+        {
+            "CityCode": "48",
+            "City": "MUĞLA",
+            "StateCode": "985",
+            "State": "MERKEZ"
+        },
+        {
+            "CityCode": "49",
+            "City": "MUŞ",
+            "StateCode": "188",
+            "State": "BULANIK"
+        },
+        {
+            "CityCode": "49",
+            "City": "MUŞ",
+            "StateCode": "454",
+            "State": "HASKÖY"
+        },
+        {
+            "CityCode": "49",
+            "City": "MUŞ",
+            "StateCode": "603",
+            "State": "KORKUT"
+        },
+        {
+            "CityCode": "49",
+            "City": "MUŞ",
+            "StateCode": "643",
+            "State": "MALAZGİRT"
+        },
+        {
+            "CityCode": "49",
+            "City": "MUŞ",
+            "StateCode": "679",
+            "State": "MUŞ"
+        },
+        {
+            "CityCode": "49",
+            "City": "MUŞ",
+            "StateCode": "920",
+            "State": "VARTO"
+        },
+        {
+            "CityCode": "50",
+            "City": "NEVŞEHİR",
+            "StateCode": "2",
+            "State": "ACIGÖL"
+        },
+        {
+            "CityCode": "50",
+            "City": "NEVŞEHİR",
+            "StateCode": "93",
+            "State": "AVANOS"
+        },
+        {
+            "CityCode": "50",
+            "City": "NEVŞEHİR",
+            "StateCode": "286",
+            "State": "DERİNKUYU"
+        },
+        {
+            "CityCode": "50",
+            "City": "NEVŞEHİR",
+            "StateCode": "418",
+            "State": "GÜLŞEHİR"
+        },
+        {
+            "CityCode": "50",
+            "City": "NEVŞEHİR",
+            "StateCode": "436",
+            "State": "HACIBEKTAŞ"
+        },
+        {
+            "CityCode": "50",
+            "City": "NEVŞEHİR",
+            "StateCode": "607",
+            "State": "KOZAKLI"
+        },
+        {
+            "CityCode": "50",
+            "City": "NEVŞEHİR",
+            "StateCode": "687",
+            "State": "NEVŞEHİR"
+        },
+        {
+            "CityCode": "50",
+            "City": "NEVŞEHİR",
+            "StateCode": "916",
+            "State": "ÜRGÜP"
+        },
+        {
+            "CityCode": "51",
+            "City": "NİĞDE",
+            "StateCode": "59",
+            "State": "ALTUNHİSAR"
+        },
+        {
+            "CityCode": "51",
+            "City": "NİĞDE",
+            "StateCode": "171",
+            "State": "BOR"
+        },
+        {
+            "CityCode": "51",
+            "City": "NİĞDE",
+            "StateCode": "205",
+            "State": "ÇAMARDI"
+        },
+        {
+            "CityCode": "51",
+            "City": "NİĞDE",
+            "StateCode": "252",
+            "State": "ÇİFTLİK"
+        },
+        {
+            "CityCode": "51",
+            "City": "NİĞDE",
+            "StateCode": "688",
+            "State": "NİĞDE"
+        },
+        {
+            "CityCode": "51",
+            "City": "NİĞDE",
+            "StateCode": "908",
+            "State": "ULUKIŞLA"
+        },
+        {
+            "CityCode": "52",
+            "City": "ORDU",
+            "StateCode": "29",
+            "State": "AKKUŞ"
+        },
+        {
+            "CityCode": "52",
+            "City": "ORDU",
+            "StateCode": "53",
+            "State": "ALTINORDU"
+        },
+        {
+            "CityCode": "52",
+            "City": "ORDU",
+            "StateCode": "97",
+            "State": "AYBASTI"
+        },
+        {
+            "CityCode": "52",
+            "City": "ORDU",
+            "StateCode": "206",
+            "State": "ÇAMAŞ"
+        },
+        {
+            "CityCode": "52",
+            "City": "ORDU",
+            "StateCode": "224",
+            "State": "ÇATALPINAR"
+        },
+        {
+            "CityCode": "52",
+            "City": "ORDU",
+            "StateCode": "229",
+            "State": "ÇAYBAŞI"
+        },
+        {
+            "CityCode": "52",
+            "City": "ORDU",
+            "StateCode": "367",
+            "State": "FATSA"
+        },
+        {
+            "CityCode": "52",
+            "City": "ORDU",
+            "StateCode": "401",
+            "State": "GÖLKÖY"
+        },
+        {
+            "CityCode": "52",
+            "City": "ORDU",
+            "StateCode": "419",
+            "State": "GÜLYALI"
+        },
+        {
+            "CityCode": "52",
+            "City": "ORDU",
+            "StateCode": "429",
+            "State": "GÜRGENTEPE"
+        },
+        {
+            "CityCode": "52",
+            "City": "ORDU",
+            "StateCode": "484",
+            "State": "İKİZCE"
+        },
+        {
+            "CityCode": "52",
+            "City": "ORDU",
+            "StateCode": "507",
+            "State": "KABADÜZ"
+        },
+        {
+            "CityCode": "52",
+            "City": "ORDU",
+            "StateCode": "508",
+            "State": "KABATAŞ"
+        },
+        {
+            "CityCode": "52",
+            "City": "ORDU",
+            "StateCode": "601",
+            "State": "KORGAN"
+        },
+        {
+            "CityCode": "52",
+            "City": "ORDU",
+            "StateCode": "624",
+            "State": "KUMRU"
+        },
+        {
+            "CityCode": "52",
+            "City": "ORDU",
+            "StateCode": "664",
+            "State": "MESUDİYE"
+        },
+        {
+            "CityCode": "52",
+            "City": "ORDU",
+            "StateCode": "736",
+            "State": "PERŞEMBE"
+        },
+        {
+            "CityCode": "52",
+            "City": "ORDU",
+            "StateCode": "904",
+            "State": "ULUBEY"
+        },
+        {
+            "CityCode": "52",
+            "City": "ORDU",
+            "StateCode": "915",
+            "State": "ÜNYE"
+        },
+        {
+            "CityCode": "52",
+            "City": "ORDU",
+            "StateCode": "990",
+            "State": "MERKEZ"
+        },
+        {
+            "CityCode": "53",
+            "City": "RİZE",
+            "StateCode": "73",
+            "State": "ARDEŞEN"
+        },
+        {
+            "CityCode": "53",
+            "City": "RİZE",
+            "StateCode": "209",
+            "State": "ÇAMLIHEMŞİN"
+        },
+        {
+            "CityCode": "53",
+            "City": "RİZE",
+            "StateCode": "231",
+            "State": "ÇAYELİ"
+        },
+        {
+            "CityCode": "53",
+            "City": "RİZE",
+            "StateCode": "283",
+            "State": "DEREPAZARI"
+        },
+        {
+            "CityCode": "53",
+            "City": "RİZE",
+            "StateCode": "372",
+            "State": "FINDIKLI"
+        },
+        {
+            "CityCode": "53",
+            "City": "RİZE",
+            "StateCode": "426",
+            "State": "GÜNEYSU"
+        },
+        {
+            "CityCode": "53",
+            "City": "RİZE",
+            "StateCode": "464",
+            "State": "HEMŞİN"
+        },
+        {
+            "CityCode": "53",
+            "City": "RİZE",
+            "StateCode": "485",
+            "State": "İKİZDERE"
+        },
+        {
+            "CityCode": "53",
+            "City": "RİZE",
+            "StateCode": "504",
+            "State": "İYİDERE"
+        },
+        {
+            "CityCode": "53",
+            "City": "RİZE",
+            "StateCode": "519",
+            "State": "KALKANDERE"
+        },
+        {
+            "CityCode": "53",
+            "City": "RİZE",
+            "StateCode": "728",
+            "State": "PAZAR"
+        },
+        {
+            "CityCode": "53",
+            "City": "RİZE",
+            "StateCode": "753",
+            "State": "RİZE"
+        },
+        {
+            "CityCode": "53",
+            "City": "RİZE",
+            "StateCode": "978",
+            "State": "ARDEŞEN"
+        },
+        {
+            "CityCode": "54",
+            "City": "SAKARYA",
+            "StateCode": "6",
+            "State": "ADAPAZARI"
+        },
+        {
+            "CityCode": "54",
+            "City": "SAKARYA",
+            "StateCode": "38",
+            "State": "AKYAZI"
+        },
+        {
+            "CityCode": "54",
+            "City": "SAKARYA",
+            "StateCode": "77",
+            "State": "ARİFİYE"
+        },
+        {
+            "CityCode": "54",
+            "City": "SAKARYA",
+            "StateCode": "345",
+            "State": "ERENLER"
+        },
+        {
+            "CityCode": "54",
+            "City": "SAKARYA",
+            "StateCode": "370",
+            "State": "FERİZLİ"
+        },
+        {
+            "CityCode": "54",
+            "City": "SAKARYA",
+            "StateCode": "391",
+            "State": "GEYVE"
+        },
+        {
+            "CityCode": "54",
+            "City": "SAKARYA",
+            "StateCode": "465",
+            "State": "HENDEK"
+        },
+        {
+            "CityCode": "54",
+            "City": "SAKARYA",
+            "StateCode": "540",
+            "State": "KARAPÜRÇEK"
+        },
+        {
+            "CityCode": "54",
+            "City": "SAKARYA",
+            "StateCode": "541",
+            "State": "KARASU"
+        },
+        {
+            "CityCode": "54",
+            "City": "SAKARYA",
+            "StateCode": "559",
+            "State": "KAYNARCA"
+        },
+        {
+            "CityCode": "54",
+            "City": "SAKARYA",
+            "StateCode": "594",
+            "State": "KOCAALİ"
+        },
+        {
+            "CityCode": "54",
+            "City": "SAKARYA",
+            "StateCode": "724",
+            "State": "PAMUKOVA"
+        },
+        {
+            "CityCode": "54",
+            "City": "SAKARYA",
+            "StateCode": "762",
+            "State": "SAPANCA"
+        },
+        {
+            "CityCode": "54",
+            "City": "SAKARYA",
+            "StateCode": "790",
+            "State": "SERDİVAN"
+        },
+        {
+            "CityCode": "54",
+            "City": "SAKARYA",
+            "StateCode": "818",
+            "State": "SÖĞÜTLÜ"
+        },
+        {
+            "CityCode": "54",
+            "City": "SAKARYA",
+            "StateCode": "861",
+            "State": "TARAKLI"
+        },
+        {
+            "CityCode": "55",
+            "City": "SAMSUN",
+            "StateCode": "42",
+            "State": "ALAÇAM"
+        },
+        {
+            "CityCode": "55",
+            "City": "SAMSUN",
+            "StateCode": "86",
+            "State": "ASARCIK"
+        },
+        {
+            "CityCode": "55",
+            "City": "SAMSUN",
+            "StateCode": "90",
+            "State": "ATAKUM"
+        },
+        {
+            "CityCode": "55",
+            "City": "SAMSUN",
+            "StateCode": "103",
+            "State": "AYVACIK"
+        },
+        {
+            "CityCode": "55",
+            "City": "SAMSUN",
+            "StateCode": "109",
+            "State": "BAFRA"
+        },
+        {
+            "CityCode": "55",
+            "City": "SAMSUN",
+            "StateCode": "195",
+            "State": "CANİK"
+        },
+        {
+            "CityCode": "55",
+            "City": "SAMSUN",
+            "StateCode": "219",
+            "State": "ÇARŞAMBA"
+        },
+        {
+            "CityCode": "55",
+            "City": "SAMSUN",
+            "StateCode": "458",
+            "State": "HAVZA"
+        },
+        {
+            "CityCode": "55",
+            "City": "SAMSUN",
+            "StateCode": "487",
+            "State": "İLKADIM"
+        },
+        {
+            "CityCode": "55",
+            "City": "SAMSUN",
+            "StateCode": "556",
+            "State": "KAVAK"
+        },
+        {
+            "CityCode": "55",
+            "City": "SAMSUN",
+            "StateCode": "635",
+            "State": "LADİK"
+        },
+        {
+            "CityCode": "55",
+            "City": "SAMSUN",
+            "StateCode": "701",
+            "State": "ONDOKUZMAYIS"
+        },
+        {
+            "CityCode": "55",
+            "City": "SAMSUN",
+            "StateCode": "756",
+            "State": "SALIPAZARI"
+        },
+        {
+            "CityCode": "55",
+            "City": "SAMSUN",
+            "StateCode": "871",
+            "State": "TEKKEKÖY"
+        },
+        {
+            "CityCode": "55",
+            "City": "SAMSUN",
+            "StateCode": "876",
+            "State": "TERME"
+        },
+        {
+            "CityCode": "55",
+            "City": "SAMSUN",
+            "StateCode": "921",
+            "State": "VEZİRKÖPRÜ"
+        },
+        {
+            "CityCode": "55",
+            "City": "SAMSUN",
+            "StateCode": "927",
+            "State": "YAKAKENT"
+        },
+        {
+            "CityCode": "56",
+            "City": "SİİRT",
+            "StateCode": "138",
+            "State": "BAYKAN"
+        },
+        {
+            "CityCode": "56",
+            "City": "SİİRT",
+            "StateCode": "350",
+            "State": "ERUH"
+        },
+        {
+            "CityCode": "56",
+            "City": "SİİRT",
+            "StateCode": "626",
+            "State": "KURTALAN"
+        },
+        {
+            "CityCode": "56",
+            "City": "SİİRT",
+            "StateCode": "738",
+            "State": "PERVARİ"
+        },
+        {
+            "CityCode": "56",
+            "City": "SİİRT",
+            "StateCode": "799",
+            "State": "SİİRT"
+        },
+        {
+            "CityCode": "56",
+            "City": "SİİRT",
+            "StateCode": "857",
+            "State": "ŞİRVAN"
+        },
+        {
+            "CityCode": "56",
+            "City": "SİİRT",
+            "StateCode": "877",
+            "State": "TİLLO"
+        },
+        {
+            "CityCode": "57",
+            "City": "SİNOP",
+            "StateCode": "95",
+            "State": "AYANCIK"
+        },
+        {
+            "CityCode": "57",
+            "City": "SİNOP",
+            "StateCode": "174",
+            "State": "BOYABAT"
+        },
+        {
+            "CityCode": "57",
+            "City": "SİNOP",
+            "StateCode": "295",
+            "State": "DİKMEN"
+        },
+        {
+            "CityCode": "57",
+            "City": "SİNOP",
+            "StateCode": "314",
+            "State": "DURAĞAN"
+        },
+        {
+            "CityCode": "57",
+            "City": "SİNOP",
+            "StateCode": "346",
+            "State": "ERFELEK"
+        },
+        {
+            "CityCode": "57",
+            "City": "SİNOP",
+            "StateCode": "389",
+            "State": "GERZE"
+        },
+        {
+            "CityCode": "57",
+            "City": "SİNOP",
+            "StateCode": "765",
+            "State": "SARAYDÜZÜ"
+        },
+        {
+            "CityCode": "57",
+            "City": "SİNOP",
+            "StateCode": "808",
+            "State": "SİNOP"
+        },
+        {
+            "CityCode": "57",
+            "City": "SİNOP",
+            "StateCode": "899",
+            "State": "TÜRKELİ"
+        },
+        {
+            "CityCode": "58",
+            "City": "SİVAS",
+            "StateCode": "27",
+            "State": "AKINCILAR"
+        },
+        {
+            "CityCode": "58",
+            "City": "SİVAS",
+            "StateCode": "58",
+            "State": "ALTINYAYLA"
+        },
+        {
+            "CityCode": "58",
+            "City": "SİVAS",
+            "StateCode": "298",
+            "State": "DİVRİĞİ"
+        },
+        {
+            "CityCode": "58",
+            "City": "SİVAS",
+            "StateCode": "303",
+            "State": "DOĞANŞAR"
+        },
+        {
+            "CityCode": "58",
+            "City": "SİVAS",
+            "StateCode": "382",
+            "State": "GEMEREK"
+        },
+        {
+            "CityCode": "58",
+            "City": "SİVAS",
+            "StateCode": "403",
+            "State": "GÖLOVA"
+        },
+        {
+            "CityCode": "58",
+            "City": "SİVAS",
+            "StateCode": "433",
+            "State": "GÜRÜN"
+        },
+        {
+            "CityCode": "58",
+            "City": "SİVAS",
+            "StateCode": "439",
+            "State": "HAFİK"
+        },
+        {
+            "CityCode": "58",
+            "City": "SİVAS",
+            "StateCode": "489",
+            "State": "İMRANLI"
+        },
+        {
+            "CityCode": "58",
+            "City": "SİVAS",
+            "StateCode": "522",
+            "State": "KANGAL"
+        },
+        {
+            "CityCode": "58",
+            "City": "SİVAS",
+            "StateCode": "606",
+            "State": "KOYULHİSAR"
+        },
+        {
+            "CityCode": "58",
+            "City": "SİVAS",
+            "StateCode": "809",
+            "State": "SİVAS"
+        },
+        {
+            "CityCode": "58",
+            "City": "SİVAS",
+            "StateCode": "833",
+            "State": "SUŞEHRİ"
+        },
+        {
+            "CityCode": "58",
+            "City": "SİVAS",
+            "StateCode": "842",
+            "State": "ŞARKIŞLA"
+        },
+        {
+            "CityCode": "58",
+            "City": "SİVAS",
+            "StateCode": "903",
+            "State": "ULAŞ"
+        },
+        {
+            "CityCode": "58",
+            "City": "SİVAS",
+            "StateCode": "958",
+            "State": "YILDIZELİ"
+        },
+        {
+            "CityCode": "58",
+            "City": "SİVAS",
+            "StateCode": "967",
+            "State": "ZARA"
+        },
+        {
+            "CityCode": "59",
+            "City": "TEKİRDAĞ",
+            "StateCode": "244",
+            "State": "ÇERKEZKÖY"
+        },
+        {
+            "CityCode": "59",
+            "City": "TEKİRDAĞ",
+            "StateCode": "259",
+            "State": "ÇORLU"
+        },
+        {
+            "CityCode": "59",
+            "City": "TEKİRDAĞ",
+            "StateCode": "348",
+            "State": "ERGENE"
+        },
+        {
+            "CityCode": "59",
+            "City": "TEKİRDAĞ",
+            "StateCode": "460",
+            "State": "HAYRABOLU"
+        },
+        {
+            "CityCode": "59",
+            "City": "TEKİRDAĞ",
+            "StateCode": "523",
+            "State": "KAPAKLI"
+        },
+        {
+            "CityCode": "59",
+            "City": "TEKİRDAĞ",
+            "StateCode": "644",
+            "State": "MALKARA"
+        },
+        {
+            "CityCode": "59",
+            "City": "TEKİRDAĞ",
+            "StateCode": "650",
+            "State": "MARMARAEREĞLİSİ"
+        },
+        {
+            "CityCode": "59",
+            "City": "TEKİRDAĞ",
+            "StateCode": "674",
+            "State": "MURATLI"
+        },
+        {
+            "CityCode": "59",
+            "City": "TEKİRDAĞ",
+            "StateCode": "763",
+            "State": "SARAY"
+        },
+        {
+            "CityCode": "59",
+            "City": "TEKİRDAĞ",
+            "StateCode": "834",
+            "State": "SÜLEYMANPAŞA"
+        },
+        {
+            "CityCode": "59",
+            "City": "TEKİRDAĞ",
+            "StateCode": "844",
+            "State": "ŞARKÖY"
+        },
+        {
+            "CityCode": "59",
+            "City": "TEKİRDAĞ",
+            "StateCode": "994",
+            "State": "MERKEZ"
+        },
+        {
+            "CityCode": "60",
+            "City": "TOKAT",
+            "StateCode": "48",
+            "State": "ALMUS"
+        },
+        {
+            "CityCode": "60",
+            "City": "TOKAT",
+            "StateCode": "83",
+            "State": "ARTOVA"
+        },
+        {
+            "CityCode": "60",
+            "City": "TOKAT",
+            "StateCode": "127",
+            "State": "BAŞÇİFTLİK"
+        },
+        {
+            "CityCode": "60",
+            "City": "TOKAT",
+            "StateCode": "339",
+            "State": "ERBAA"
+        },
+        {
+            "CityCode": "60",
+            "City": "TOKAT",
+            "StateCode": "689",
+            "State": "NİKSAR"
+        },
+        {
+            "CityCode": "60",
+            "City": "TOKAT",
+            "StateCode": "729",
+            "State": "PAZAR"
+        },
+        {
+            "CityCode": "60",
+            "City": "TOKAT",
+            "StateCode": "751",
+            "State": "REŞADİYE"
+        },
+        {
+            "CityCode": "60",
+            "City": "TOKAT",
+            "StateCode": "826",
+            "State": "SULUSARAY"
+        },
+        {
+            "CityCode": "60",
+            "City": "TOKAT",
+            "StateCode": "880",
+            "State": "TOKAT"
+        },
+        {
+            "CityCode": "60",
+            "City": "TOKAT",
+            "StateCode": "892",
+            "State": "TURHAL"
+        },
+        {
+            "CityCode": "60",
+            "City": "TOKAT",
+            "StateCode": "955",
+            "State": "YEŞİLYURT"
+        },
+        {
+            "CityCode": "60",
+            "City": "TOKAT",
+            "StateCode": "969",
+            "State": "ZİLE"
+        },
+        {
+            "CityCode": "61",
+            "City": "TRABZON",
+            "StateCode": "19",
+            "State": "AKÇAABAT"
+        },
+        {
+            "CityCode": "61",
+            "City": "TRABZON",
+            "StateCode": "68",
+            "State": "ARAKLI"
+        },
+        {
+            "CityCode": "61",
+            "City": "TRABZON",
+            "StateCode": "81",
+            "State": "ARSİN"
+        },
+        {
+            "CityCode": "61",
+            "City": "TRABZON",
+            "StateCode": "147",
+            "State": "BEŞİKDÜZÜ"
+        },
+        {
+            "CityCode": "61",
+            "City": "TRABZON",
+            "StateCode": "220",
+            "State": "ÇARŞIBAŞI"
+        },
+        {
+            "CityCode": "61",
+            "City": "TRABZON",
+            "StateCode": "235",
+            "State": "ÇAYKARA"
+        },
+        {
+            "CityCode": "61",
+            "City": "TRABZON",
+            "StateCode": "287",
+            "State": "DERNEKPAZARI"
+        },
+        {
+            "CityCode": "61",
+            "City": "TRABZON",
+            "StateCode": "318",
+            "State": "DÜZKÖY"
+        },
+        {
+            "CityCode": "61",
+            "City": "TRABZON",
+            "StateCode": "461",
+            "State": "HAYRAT"
+        },
+        {
+            "CityCode": "61",
+            "City": "TRABZON",
+            "StateCode": "612",
+            "State": "KÖPRÜBAŞI"
+        },
+        {
+            "CityCode": "61",
+            "City": "TRABZON",
+            "StateCode": "640",
+            "State": "MAÇKA"
+        },
+        {
+            "CityCode": "61",
+            "City": "TRABZON",
+            "StateCode": "696",
+            "State": "OF"
+        },
+        {
+            "CityCode": "61",
+            "City": "TRABZON",
+            "StateCode": "707",
+            "State": "ORTAHİSAR"
+        },
+        {
+            "CityCode": "61",
+            "City": "TRABZON",
+            "StateCode": "836",
+            "State": "SÜRMENE"
+        },
+        {
+            "CityCode": "61",
+            "City": "TRABZON",
+            "StateCode": "840",
+            "State": "ŞALPAZARI"
+        },
+        {
+            "CityCode": "61",
+            "City": "TRABZON",
+            "StateCode": "882",
+            "State": "TONYA"
+        },
+        {
+            "CityCode": "61",
+            "City": "TRABZON",
+            "StateCode": "919",
+            "State": "VAKFIKEBİR"
+        },
+        {
+            "CityCode": "61",
+            "City": "TRABZON",
+            "StateCode": "959",
+            "State": "YOMRA"
+        },
+        {
+            "CityCode": "61",
+            "City": "TRABZON",
+            "StateCode": "983",
+            "State": "TRABZON"
+        },
+        {
+            "CityCode": "61",
+            "City": "TRABZON",
+            "StateCode": "995",
+            "State": "MERKEZ"
+        },
+        {
+            "CityCode": "62",
+            "City": "TUNCELİ",
+            "StateCode": "242",
+            "State": "ÇEMİŞGEZEK"
+        },
+        {
+            "CityCode": "62",
+            "City": "TUNCELİ",
+            "StateCode": "474",
+            "State": "HOZAT"
+        },
+        {
+            "CityCode": "62",
+            "City": "TUNCELİ",
+            "StateCode": "652",
+            "State": "MAZGİRT"
+        },
+        {
+            "CityCode": "62",
+            "City": "TUNCELİ",
+            "StateCode": "685",
+            "State": "NAZIMİYE"
+        },
+        {
+            "CityCode": "62",
+            "City": "TUNCELİ",
+            "StateCode": "716",
+            "State": "OVACIK"
+        },
+        {
+            "CityCode": "62",
+            "City": "TUNCELİ",
+            "StateCode": "737",
+            "State": "PERTEK"
+        },
+        {
+            "CityCode": "62",
+            "City": "TUNCELİ",
+            "StateCode": "748",
+            "State": "PÜLÜMÜR"
+        },
+        {
+            "CityCode": "62",
+            "City": "TUNCELİ",
+            "StateCode": "890",
+            "State": "TUNCELİ"
+        },
+        {
+            "CityCode": "63",
+            "City": "ŞANLIURFA",
+            "StateCode": "21",
+            "State": "AKÇAKALE"
+        },
+        {
+            "CityCode": "63",
+            "City": "ŞANLIURFA",
+            "StateCode": "163",
+            "State": "BİRECİK"
+        },
+        {
+            "CityCode": "63",
+            "City": "ŞANLIURFA",
+            "StateCode": "180",
+            "State": "BOZOVA"
+        },
+        {
+            "CityCode": "63",
+            "City": "ŞANLIURFA",
+            "StateCode": "197",
+            "State": "CEYLANPINAR"
+        },
+        {
+            "CityCode": "63",
+            "City": "ŞANLIURFA",
+            "StateCode": "364",
+            "State": "EYYÜBİYE"
+        },
+        {
+            "CityCode": "63",
+            "City": "ŞANLIURFA",
+            "StateCode": "441",
+            "State": "HALFETİ"
+        },
+        {
+            "CityCode": "63",
+            "City": "ŞANLIURFA",
+            "StateCode": "442",
+            "State": "HALİLİYE"
+        },
+        {
+            "CityCode": "63",
+            "City": "ŞANLIURFA",
+            "StateCode": "451",
+            "State": "HARRAN"
+        },
+        {
+            "CityCode": "63",
+            "City": "ŞANLIURFA",
+            "StateCode": "467",
+            "State": "HİLVAN"
+        },
+        {
+            "CityCode": "63",
+            "City": "ŞANLIURFA",
+            "StateCode": "535",
+            "State": "KARAKÖPRÜ"
+        },
+        {
+            "CityCode": "63",
+            "City": "ŞANLIURFA",
+            "StateCode": "811",
+            "State": "SİVEREK"
+        },
+        {
+            "CityCode": "63",
+            "City": "ŞANLIURFA",
+            "StateCode": "830",
+            "State": "SURUÇ"
+        },
+        {
+            "CityCode": "63",
+            "City": "ŞANLIURFA",
+            "StateCode": "922",
+            "State": "VİRANŞEHİR"
+        },
+        {
+            "CityCode": "63",
+            "City": "ŞANLIURFA",
+            "StateCode": "989",
+            "State": "MERKEZ"
+        },
+        {
+            "CityCode": "64",
+            "City": "UŞAK",
+            "StateCode": "122",
+            "State": "BANAZ"
+        },
+        {
+            "CityCode": "64",
+            "City": "UŞAK",
+            "StateCode": "358",
+            "State": "EŞME"
+        },
+        {
+            "CityCode": "64",
+            "City": "UŞAK",
+            "StateCode": "530",
+            "State": "KARAHALLI"
+        },
+        {
+            "CityCode": "64",
+            "City": "UŞAK",
+            "StateCode": "810",
+            "State": "SİVASLI"
+        },
+        {
+            "CityCode": "64",
+            "City": "UŞAK",
+            "StateCode": "905",
+            "State": "ULUBEY"
+        },
+        {
+            "CityCode": "64",
+            "City": "UŞAK",
+            "StateCode": "911",
+            "State": "UŞAK"
+        },
+        {
+            "CityCode": "65",
+            "City": "VAN",
+            "StateCode": "114",
+            "State": "BAHÇESARAY"
+        },
+        {
+            "CityCode": "65",
+            "City": "VAN",
+            "StateCode": "129",
+            "State": "BAŞKALE"
+        },
+        {
+            "CityCode": "65",
+            "City": "VAN",
+            "StateCode": "204",
+            "State": "ÇALDIRAN"
+        },
+        {
+            "CityCode": "65",
+            "City": "VAN",
+            "StateCode": "222",
+            "State": "ÇATAK"
+        },
+        {
+            "CityCode": "65",
+            "City": "VAN",
+            "StateCode": "322",
+            "State": "EDREMİT"
+        },
+        {
+            "CityCode": "65",
+            "City": "VAN",
+            "StateCode": "340",
+            "State": "ERCİŞ"
+        },
+        {
+            "CityCode": "65",
+            "City": "VAN",
+            "StateCode": "390",
+            "State": "GEVAŞ"
+        },
+        {
+            "CityCode": "65",
+            "City": "VAN",
+            "StateCode": "431",
+            "State": "GÜRPINAR"
+        },
+        {
+            "CityCode": "65",
+            "City": "VAN",
+            "StateCode": "496",
+            "State": "İPEKYOLU"
+        },
+        {
+            "CityCode": "65",
+            "City": "VAN",
+            "StateCode": "673",
+            "State": "MURADİYE"
+        },
+        {
+            "CityCode": "65",
+            "City": "VAN",
+            "StateCode": "719",
+            "State": "ÖZALP"
+        },
+        {
+            "CityCode": "65",
+            "City": "VAN",
+            "StateCode": "764",
+            "State": "SARAY"
+        },
+        {
+            "CityCode": "65",
+            "City": "VAN",
+            "StateCode": "893",
+            "State": "TUŞBA"
+        },
+        {
+            "CityCode": "65",
+            "City": "VAN",
+            "StateCode": "977",
+            "State": "MERKEZ"
+        },
+        {
+            "CityCode": "66",
+            "City": "YOZGAT",
+            "StateCode": "24",
+            "State": "AKDAĞMADENİ"
+        },
+        {
+            "CityCode": "66",
+            "City": "YOZGAT",
+            "StateCode": "99",
+            "State": "AYDINCIK"
+        },
+        {
+            "CityCode": "66",
+            "City": "YOZGAT",
+            "StateCode": "168",
+            "State": "BOĞAZLIYAN"
+        },
+        {
+            "CityCode": "66",
+            "City": "YOZGAT",
+            "StateCode": "215",
+            "State": "ÇANDIR"
+        },
+        {
+            "CityCode": "66",
+            "City": "YOZGAT",
+            "StateCode": "232",
+            "State": "ÇAYIRALAN"
+        },
+        {
+            "CityCode": "66",
+            "City": "YOZGAT",
+            "StateCode": "236",
+            "State": "ÇEKEREK"
+        },
+        {
+            "CityCode": "66",
+            "City": "YOZGAT",
+            "StateCode": "511",
+            "State": "KADIŞEHRİ"
+        },
+        {
+            "CityCode": "66",
+            "City": "YOZGAT",
+            "StateCode": "766",
+            "State": "SARAYKENT"
+        },
+        {
+            "CityCode": "66",
+            "City": "YOZGAT",
+            "StateCode": "773",
+            "State": "SARIKAYA"
+        },
+        {
+            "CityCode": "66",
+            "City": "YOZGAT",
+            "StateCode": "816",
+            "State": "SORGUN"
+        },
+        {
+            "CityCode": "66",
+            "City": "YOZGAT",
+            "StateCode": "847",
+            "State": "ŞEFAATLİ"
+        },
+        {
+            "CityCode": "66",
+            "City": "YOZGAT",
+            "StateCode": "942",
+            "State": "YENİFAKILI"
+        },
+        {
+            "CityCode": "66",
+            "City": "YOZGAT",
+            "StateCode": "950",
+            "State": "YERKÖY"
+        },
+        {
+            "CityCode": "66",
+            "City": "YOZGAT",
+            "StateCode": "960",
+            "State": "YOZGAT"
+        },
+        {
+            "CityCode": "67",
+            "City": "ZONGULDAK",
+            "StateCode": "45",
+            "State": "ALAPLI"
+        },
+        {
+            "CityCode": "67",
+            "City": "ZONGULDAK",
+            "StateCode": "230",
+            "State": "ÇAYCUMA"
+        },
+        {
+            "CityCode": "67",
+            "City": "ZONGULDAK",
+            "StateCode": "289",
+            "State": "DEVREK"
+        },
+        {
+            "CityCode": "67",
+            "City": "ZONGULDAK",
+            "StateCode": "344",
+            "State": "EREĞLİ"
+        },
+        {
+            "CityCode": "67",
+            "City": "ZONGULDAK",
+            "StateCode": "394",
+            "State": "GÖKÇEBEY"
+        },
+        {
+            "CityCode": "67",
+            "City": "ZONGULDAK",
+            "StateCode": "591",
+            "State": "KİLİMLİ"
+        },
+        {
+            "CityCode": "67",
+            "City": "ZONGULDAK",
+            "StateCode": "609",
+            "State": "KOZLU"
+        },
+        {
+            "CityCode": "67",
+            "City": "ZONGULDAK",
+            "StateCode": "970",
+            "State": "ZONGULDAK"
+        },
+        {
+            "CityCode": "68",
+            "City": "AKSARAY",
+            "StateCode": "11",
+            "State": "AĞAÇÖREN"
+        },
+        {
+            "CityCode": "68",
+            "City": "AKSARAY",
+            "StateCode": "32",
+            "State": "AKSARAY"
+        },
+        {
+            "CityCode": "68",
+            "City": "AKSARAY",
+            "StateCode": "355",
+            "State": "ESKİL"
+        },
+        {
+            "CityCode": "68",
+            "City": "AKSARAY",
+            "StateCode": "416",
+            "State": "GÜLAĞAÇ"
+        },
+        {
+            "CityCode": "68",
+            "City": "AKSARAY",
+            "StateCode": "435",
+            "State": "GÜZELYURT"
+        },
+        {
+            "CityCode": "68",
+            "City": "AKSARAY",
+            "StateCode": "708",
+            "State": "ORTAKÖY"
+        },
+        {
+            "CityCode": "68",
+            "City": "AKSARAY",
+            "StateCode": "776",
+            "State": "SARIYAHŞİ"
+        },
+        {
+            "CityCode": "68",
+            "City": "AKSARAY",
+            "StateCode": "972",
+            "State": "SULTANHANI"
+        },
+        {
+            "CityCode": "69",
+            "City": "BAYBURT",
+            "StateCode": "100",
+            "State": "AYDINTEPE"
+        },
+        {
+            "CityCode": "69",
+            "City": "BAYBURT",
+            "StateCode": "136",
+            "State": "BAYBURT"
+        },
+        {
+            "CityCode": "69",
+            "City": "BAYBURT",
+            "StateCode": "278",
+            "State": "DEMİRÖZÜ"
+        },
+        {
+            "CityCode": "70",
+            "City": "KARAMAN",
+            "StateCode": "101",
+            "State": "AYRANCI"
+        },
+        {
+            "CityCode": "70",
+            "City": "KARAMAN",
+            "StateCode": "131",
+            "State": "BAŞYAYLA"
+        },
+        {
+            "CityCode": "70",
+            "City": "KARAMAN",
+            "StateCode": "349",
+            "State": "ERMENEK"
+        },
+        {
+            "CityCode": "70",
+            "City": "KARAMAN",
+            "StateCode": "536",
+            "State": "KARAMAN"
+        },
+        {
+            "CityCode": "70",
+            "City": "KARAMAN",
+            "StateCode": "562",
+            "State": "KAZIMKARABEKİR"
+        },
+        {
+            "CityCode": "70",
+            "City": "KARAMAN",
+            "StateCode": "775",
+            "State": "SARIVELİLER"
+        },
+        {
+            "CityCode": "71",
+            "City": "KIRIKKALE",
+            "StateCode": "115",
+            "State": "BAHŞİLİ"
+        },
+        {
+            "CityCode": "71",
+            "City": "KIRIKKALE",
+            "StateCode": "120",
+            "State": "BALIŞEYH"
+        },
+        {
+            "CityCode": "71",
+            "City": "KIRIKKALE",
+            "StateCode": "238",
+            "State": "ÇELEBİ"
+        },
+        {
+            "CityCode": "71",
+            "City": "KIRIKKALE",
+            "StateCode": "275",
+            "State": "DELİCE"
+        },
+        {
+            "CityCode": "71",
+            "City": "KIRIKKALE",
+            "StateCode": "532",
+            "State": "KARAKEÇİLİ"
+        },
+        {
+            "CityCode": "71",
+            "City": "KIRIKKALE",
+            "StateCode": "575",
+            "State": "KESKİN"
+        },
+        {
+            "CityCode": "71",
+            "City": "KIRIKKALE",
+            "StateCode": "582",
+            "State": "KIRIKKALE"
+        },
+        {
+            "CityCode": "71",
+            "City": "KIRIKKALE",
+            "StateCode": "820",
+            "State": "SULAKYURT"
+        },
+        {
+            "CityCode": "71",
+            "City": "KIRIKKALE",
+            "StateCode": "925",
+            "State": "YAHŞİHAN"
+        },
+        {
+            "CityCode": "72",
+            "City": "BATMAN",
+            "StateCode": "132",
+            "State": "BATMAN"
+        },
+        {
+            "CityCode": "72",
+            "City": "BATMAN",
+            "StateCode": "149",
+            "State": "BEŞİRİ"
+        },
+        {
+            "CityCode": "72",
+            "City": "BATMAN",
+            "StateCode": "385",
+            "State": "GERCÜŞ"
+        },
+        {
+            "CityCode": "72",
+            "City": "BATMAN",
+            "StateCode": "453",
+            "State": "HASANKEYF"
+        },
+        {
+            "CityCode": "72",
+            "City": "BATMAN",
+            "StateCode": "610",
+            "State": "KOZLUK"
+        },
+        {
+            "CityCode": "72",
+            "City": "BATMAN",
+            "StateCode": "780",
+            "State": "SASON"
+        },
+        {
+            "CityCode": "73",
+            "City": "ŞIRNAK",
+            "StateCode": "158",
+            "State": "BEYTÜŞŞEBAP"
+        },
+        {
+            "CityCode": "73",
+            "City": "ŞIRNAK",
+            "StateCode": "200",
+            "State": "CİZRE"
+        },
+        {
+            "CityCode": "73",
+            "City": "ŞIRNAK",
+            "StateCode": "414",
+            "State": "GÜÇLÜKONAK"
+        },
+        {
+            "CityCode": "73",
+            "City": "ŞIRNAK",
+            "StateCode": "481",
+            "State": "İDİL"
+        },
+        {
+            "CityCode": "73",
+            "City": "ŞIRNAK",
+            "StateCode": "802",
+            "State": "SİLOPİ"
+        },
+        {
+            "CityCode": "73",
+            "City": "ŞIRNAK",
+            "StateCode": "854",
+            "State": "ŞIRNAK"
+        },
+        {
+            "CityCode": "73",
+            "City": "ŞIRNAK",
+            "StateCode": "907",
+            "State": "ULUDERE"
+        },
+        {
+            "CityCode": "74",
+            "City": "BARTIN",
+            "StateCode": "61",
+            "State": "AMASRA"
+        },
+        {
+            "CityCode": "74",
+            "City": "BARTIN",
+            "StateCode": "124",
+            "State": "BARTIN"
+        },
+        {
+            "CityCode": "74",
+            "City": "BARTIN",
+            "StateCode": "627",
+            "State": "KURUCAŞİLE"
+        },
+        {
+            "CityCode": "74",
+            "City": "BARTIN",
+            "StateCode": "909",
+            "State": "ULUS"
+        },
+        {
+            "CityCode": "75",
+            "City": "ARDAHAN",
+            "StateCode": "71",
+            "State": "ARDAHAN"
+        },
+        {
+            "CityCode": "75",
+            "City": "ARDAHAN",
+            "StateCode": "247",
+            "State": "ÇILDIR"
+        },
+        {
+            "CityCode": "75",
+            "City": "ARDAHAN",
+            "StateCode": "268",
+            "State": "DAMAL"
+        },
+        {
+            "CityCode": "75",
+            "City": "ARDAHAN",
+            "StateCode": "399",
+            "State": "GÖLE"
+        },
+        {
+            "CityCode": "75",
+            "City": "ARDAHAN",
+            "StateCode": "447",
+            "State": "HANAK"
+        },
+        {
+            "CityCode": "75",
+            "City": "ARDAHAN",
+            "StateCode": "745",
+            "State": "POSOF"
+        },
+        {
+            "CityCode": "76",
+            "City": "IĞDIR",
+            "StateCode": "69",
+            "State": "ARALIK"
+        },
+        {
+            "CityCode": "76",
+            "City": "IĞDIR",
+            "StateCode": "476",
+            "State": "IĞDIR"
+        },
+        {
+            "CityCode": "76",
+            "City": "IĞDIR",
+            "StateCode": "534",
+            "State": "KARAKOYUNLU"
+        },
+        {
+            "CityCode": "76",
+            "City": "IĞDIR",
+            "StateCode": "897",
+            "State": "TUZLUCA"
+        },
+        {
+            "CityCode": "77",
+            "City": "YALOVA",
+            "StateCode": "54",
+            "State": "ALTINOVA"
+        },
+        {
+            "CityCode": "77",
+            "City": "YALOVA",
+            "StateCode": "78",
+            "State": "ARMUTLU"
+        },
+        {
+            "CityCode": "77",
+            "City": "YALOVA",
+            "StateCode": "249",
+            "State": "ÇINARCIK"
+        },
+        {
+            "CityCode": "77",
+            "City": "YALOVA",
+            "StateCode": "253",
+            "State": "ÇİFTLİKKÖY"
+        },
+        {
+            "CityCode": "77",
+            "City": "YALOVA",
+            "StateCode": "875",
+            "State": "TERMAL"
+        },
+        {
+            "CityCode": "77",
+            "City": "YALOVA",
+            "StateCode": "930",
+            "State": "YALOVA"
+        },
+        {
+            "CityCode": "77",
+            "City": "YALOVA",
+            "StateCode": "976",
+            "State": "MERKEZ"
+        },
+        {
+            "CityCode": "78",
+            "City": "KARABÜK",
+            "StateCode": "324",
+            "State": "EFLANİ"
+        },
+        {
+            "CityCode": "78",
+            "City": "KARABÜK",
+            "StateCode": "356",
+            "State": "ESKİPAZAR"
+        },
+        {
+            "CityCode": "78",
+            "City": "KARABÜK",
+            "StateCode": "526",
+            "State": "KARABÜK"
+        },
+        {
+            "CityCode": "78",
+            "City": "KARABÜK",
+            "StateCode": "715",
+            "State": "OVACIK"
+        },
+        {
+            "CityCode": "78",
+            "City": "KARABÜK",
+            "StateCode": "754",
+            "State": "SAFRANBOLU"
+        },
+        {
+            "CityCode": "78",
+            "City": "KARABÜK",
+            "StateCode": "940",
+            "State": "YENİCE"
+        },
+        {
+            "CityCode": "79",
+            "City": "KİLİS",
+            "StateCode": "329",
+            "State": "ELBEYLİ"
+        },
+        {
+            "CityCode": "79",
+            "City": "KİLİS",
+            "StateCode": "592",
+            "State": "KİLİS"
+        },
+        {
+            "CityCode": "79",
+            "City": "KİLİS",
+            "StateCode": "677",
+            "State": "MUSABEYLİ"
+        },
+        {
+            "CityCode": "79",
+            "City": "KİLİS",
+            "StateCode": "743",
+            "State": "POLATELİ"
+        },
+        {
+            "CityCode": "80",
+            "City": "OSMANİYE",
+            "StateCode": "112",
+            "State": "BAHÇE"
+        },
+        {
+            "CityCode": "80",
+            "City": "OSMANİYE",
+            "StateCode": "317",
+            "State": "DÜZİÇİ"
+        },
+        {
+            "CityCode": "80",
+            "City": "OSMANİYE",
+            "StateCode": "452",
+            "State": "HASANBEYLİ"
+        },
+        {
+            "CityCode": "80",
+            "City": "OSMANİYE",
+            "StateCode": "512",
+            "State": "KADİRLİ"
+        },
+        {
+            "CityCode": "80",
+            "City": "OSMANİYE",
+            "StateCode": "713",
+            "State": "OSMANİYE"
+        },
+        {
+            "CityCode": "80",
+            "City": "OSMANİYE",
+            "StateCode": "827",
+            "State": "SUMBAS"
+        },
+        {
+            "CityCode": "80",
+            "City": "OSMANİYE",
+            "StateCode": "883",
+            "State": "TOPRAKKALE"
+        },
+        {
+            "CityCode": "81",
+            "City": "DÜZCE",
+            "StateCode": "23",
+            "State": "AKÇAKOCA"
+        },
+        {
+            "CityCode": "81",
+            "City": "DÜZCE",
+            "StateCode": "201",
+            "State": "CUMAYERİ"
+        },
+        {
+            "CityCode": "81",
+            "City": "DÜZCE",
+            "StateCode": "255",
+            "State": "ÇİLİMLİ"
+        },
+        {
+            "CityCode": "81",
+            "City": "DÜZCE",
+            "StateCode": "316",
+            "State": "DÜZCE"
+        },
+        {
+            "CityCode": "81",
+            "City": "DÜZCE",
+            "StateCode": "405",
+            "State": "GÖLYAKA"
+        },
+        {
+            "CityCode": "81",
+            "City": "DÜZCE",
+            "StateCode": "422",
+            "State": "GÜMÜŞOVA"
+        },
+        {
+            "CityCode": "81",
+            "City": "DÜZCE",
+            "StateCode": "560",
+            "State": "KAYNAŞLI"
+        },
+        {
+            "CityCode": "81",
+            "City": "DÜZCE",
+            "StateCode": "956",
+            "State": "YIĞILCA"
+        }
+    ]
+}
